@@ -1,4 +1,4 @@
-# Awesome Free Software [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Real Estate [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 
 > A curated list of awesome real estate resources and projects.
@@ -17,6 +17,12 @@
 
 
 ## Resources
+
+### Blogs
+
+- [GeekEstateBlog](http://geekestateblog.com/) - Insightful articles with a focus on technology.
+- [Notorious Rob](http://www.notorious-rob.com/) - Highly opinionated look at industry trends.
+
 
 ### Events
 
