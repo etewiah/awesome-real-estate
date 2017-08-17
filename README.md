@@ -6,6 +6,7 @@
 
 ## Contents
 
+- [Github projects](#github-projects)
 - [Resources](#resources)
   - [Blogs](#blogs)
   - [Events](#events)
@@ -15,6 +16,10 @@
 - [License](#license)
 
 
+## Github projects
+
+- [EasyPropertyListings](https://github.com/easypropertylistings/Easy-Property-Listings) - WordPress plugin for property listings
+- [PropertyWebBuilder](https://github.com/etewiah/property_web_builder) - Powerful, quick property listings website builder
 
 ## Resources
 
