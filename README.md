@@ -10,9 +10,10 @@
 - [Resources](#resources)
   - [Blogs](#blogs)
   - [Events](#events)
-  - [Organizations](#organizations)
+  - [Podcasts](#podcasts)
 - [Software](#software)
-  - [Website builders](#website-builders)
+  - [APIs](#apis)  
+  - [CRMs](#crms)
 - [License](#license)
 
 
@@ -20,6 +21,7 @@
 
 - [EasyPropertyListings](https://github.com/easypropertylistings/Easy-Property-Listings) - WordPress plugin for property listings
 - [PropertyWebBuilder](https://github.com/etewiah/property_web_builder) - Powerful, quick property listings website builder
+
 
 ## Resources
 
@@ -33,7 +35,22 @@
 
 - [Inman Connect](https://www.inman.com/event/icsf17/) - Week long real estate showcase.
 
+### Podcasts
 
+- [Listing Bits](http://listingbits.libsyn.com) - Real estate tech talk with a focus on the US.
+
+
+## Software
+
+### APIs
+
+- [Onboard Informatics Community API](https://developer.onboard-apis.com/products/Community-API) - Provides access to a rich set of local information.
+- [Rets Rabbit](http://www.retsrabbit.com) - Import real estate listings and photos from RETS or ListHub. 
+- [Zoo Property](http://www.zooproperty.com/api/) - RESTful API to manage property listings.
+
+### CRMs
+
+- [TeamLeads](http://teamleads.com/) - Expensive but very comprehensive real estate CRM
 
 ## License
 
