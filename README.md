@@ -43,11 +43,12 @@
 ### Events
 
 - [Inman Connect](https://www.inman.com/event/icsf17/) - Week long real estate showcase.
+- [MIPIM](http://www.mipim.com/) - Leading (and rather glamorous) global real estate event held annualy over 4 days in Cannes, France.
 
 ### Podcasts
 
 - [Listing Bits](http://listingbits.libsyn.com) - Real estate tech talk with a focus on the US.
-
+- [Super Agents Live](https://player.fm/series/super-agents-live-real-estate-coaching) - Leading podcast for agent with insights on how to improve your game.
 
 ## Software
 
