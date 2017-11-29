@@ -6,7 +6,7 @@
 
 ## Contents
 
-- [Accelerators](#accelerators)
+- [Accelerators / Venture Funds](#accelerators)
 - [Github projects](#github-projects)
 - [Resources](#resources)
   - [Blogs](#blogs)
@@ -18,13 +18,13 @@
 - [License](#license)
 
 
-## Accelerators
+## Accelerators / Venture Funds
 
 - [Blackprint](http://www.blackprintbooster.vc) - German based proptech accelerator 
-- [Pilabs](http://pilabs.co.uk/) - European property tech venture capital firm 
-- [NARReach](http://www.narreach.com/) - US National Association of Realtors backed accelerator
 - [MetaProp](http://www.metaprop.org/) - New York based program for early stage companies
-
+- [Moderne Ventures](https://www.moderneventures.com/) - Early stage venture fund focused on technology companies 
+- [NARReach](http://www.narreach.com/) - US National Association of Realtors backed accelerator
+- [Pilabs](http://pilabs.co.uk/) - European property tech venture capital firm 
 
 ## Github projects
 
