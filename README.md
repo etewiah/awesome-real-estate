@@ -14,7 +14,7 @@
   - [Podcasts](#podcasts)
 - [Software](#software)
   - [APIs](#apis)  
-  - [CRMs](#crms)
+  - [Lead Page Builders](#lead-page-builders)
 - [License](#license)
 
 
@@ -58,9 +58,9 @@
 - [Rets Rabbit](http://www.retsrabbit.com) - Import real estate listings and photos from RETS or ListHub. 
 - [Zoo Property](http://www.zooproperty.com/api/) - RESTful API to manage property listings.
 
-### CRMs
+### Lead Page Builders
 
-- [TeamLeads](http://teamleads.com/) - Expensive but very comprehensive real estate CRM
+- [SinglePropertyPages](https://singlepropertypages.com) - Affordable and easy to use page builder
 
 ## License
 
