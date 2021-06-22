@@ -50,6 +50,7 @@
 
 - [Listing Bits](http://listingbits.libsyn.com) - Real estate tech talk with a focus on the US.
 - [Super Agents Live](https://player.fm/series/super-agents-live-real-estate-coaching) - Leading podcast for agent with insights on how to improve your game.
+- [Chrisman Commentary - Daily Mortgage News](https://open.spotify.com/show/3XsABmcuSD7vdYjfE8QlyO) - A daily snapshot of what is happening in the mortgage industry and with mortgage rates.
 
 ## Software
 
