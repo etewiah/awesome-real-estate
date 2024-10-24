@@ -1,8 +1,6 @@
 # Awesome Real Estate [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-
 > A curated list of awesome real estate resources and projects.
-
 
 ## Contents
 
@@ -12,12 +10,16 @@
   - [Blogs](#blogs)
   - [Events](#events)
   - [Podcasts](#podcasts)
+  - [Marketplaces](#marketplaces)
+  - [Analytics Platforms](#analytics-platforms)
+  - [CRMs](#crms)
+  - [Educational Resources](#educational-resources)
+  - [Visualization Tools](#visualization-tools)
 - [Software](#software)
   - [APIs](#apis)  
   - [Lead Page Builders](#lead-page-builders) 
   - [Website Providers](#website-providers)
 - [License](#license)
-
 
 ## Accelerators / Venture Funds
 
@@ -32,7 +34,6 @@
 - [EasyPropertyListings](https://github.com/easypropertylistings/Easy-Property-Listings) - WordPress plugin for property listings
 - [PropertyWebBuilder](https://github.com/etewiah/property_web_builder) - Powerful, quick property listings website builder
 
-
 ## Resources
 
 ### Blogs
@@ -40,17 +41,41 @@
 - [GeekEstateBlog](http://geekestateblog.com/) - Insightful articles with a focus on technology.
 - [Notorious Rob](http://www.notorious-rob.com/) - Highly opinionated look at industry trends.
 
-
 ### Events
 
 - [Inman Connect](https://www.inman.com/event/icsf17/) - Week long real estate showcase.
-- [MIPIM](http://www.mipim.com/) - Leading (and rather glamorous) global real estate event held annualy over 4 days in Cannes, France.
+- [MIPIM](http://www.mipim.com/) - Leading (and rather glamorous) global real estate event held annually over 4 days in Cannes, France.
 
 ### Podcasts
 
 - [Listing Bits](http://listingbits.libsyn.com) - Real estate tech talk with a focus on the US.
-- [Super Agents Live](https://player.fm/series/super-agents-live-real-estate-coaching) - Leading podcast for agent with insights on how to improve your game.
+- [Super Agents Live](https://player.fm/series/super-agents-live-real-estate-coaching) - Leading podcast for agents with insights on how to improve your game.
 - [Chrisman Commentary - Daily Mortgage News](https://open.spotify.com/show/3XsABmcuSD7vdYjfE8QlyO) - A daily snapshot of what is happening in the mortgage industry and with mortgage rates.
+
+### Marketplaces
+
+- [Zillow](https://www.zillow.com/) - One of the largest real estate marketplaces in the U.S. with listings, price estimates, and neighborhood data.
+- [LoopNet](https://www.loopnet.com/) - Leading commercial real estate marketplace with extensive listings of office, retail, and industrial properties.
+
+### Analytics Platforms
+
+- [HouseCanary](https://www.housecanary.com/) - Provides real estate data and analytics, including home valuation models and market forecasting.
+- [CompStak](https://www.compstak.com/) - Offers crowdsourced commercial real estate data, focusing on lease and sales comparables.
+
+### CRMs
+
+- [Follow Up Boss](https://www.followupboss.com/) - A CRM for real estate teams to streamline lead management and follow-up processes.
+- [Realvolve](https://www.realvolve.com/) - A CRM combining workflow automation, contact management, and transaction management for real estate agents.
+
+### Educational Resources
+
+- [BiggerPockets](https://www.biggerpockets.com/) - A leading platform for real estate investors, providing education, podcasts, and networking.
+- [Masterclass: Real Estate](https://www.masterclass.com/) - Professional real estate courses from industry experts.
+
+### Visualization Tools
+
+- [Matterport](https://www.matterport.com/) - A 3D visualization platform for real estate professionals to create immersive virtual tours of properties.
+- [Cubicasa](https://www.cubicasa.com/) - A fast and accurate floor plan generation tool for real estate listings.
 
 ## Software
 
@@ -69,7 +94,6 @@
 
 - [Listerswebs](https://listerswebs.com) - All-inclusive, fully custom website suite built specifically for marketing to home sellers
 - [Easyagentpro](https://easyagentpro.com) - Website builder with CRM and MLS integrations
-
 
 ## License
 
