@@ -35,7 +35,7 @@
 
 - [EasyPropertyListings](https://github.com/easypropertylistings/Easy-Property-Listings) - WordPress plugin for property listings
 - [PropertyWebBuilder](https://github.com/etewiah/property_web_builder) - Powerful, quick property listings website builder
-- [HomeHavest](https://github.com/Bunsly/HomeHarvest) - Python package for scraping real estate property data
+- [HomeHarvest](https://github.com/Bunsly/HomeHarvest) - Python package for scraping real estate property data
 
 ## Resources
 
