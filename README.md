@@ -45,6 +45,7 @@
 - [GeekEstateBlog](http://geekestateblog.com/) - Insightful articles with a focus on technology.
 - [Notorious Rob](http://www.notorious-rob.com/) - Highly opinionated look at industry trends.
 - [The Real Deal](https://therealdeal.com/) - Provides up-to-date news on the real estate market, focusing on New York, South Florida, and Los Angeles.
+- [RISMedia](https://blog.rismedia.com/) - RISMedia is a reputable source covering real estate news and trends. It also provides educational articles beneficial for new agents wanting to expand their knowledge.
 
 ### Events
 
