@@ -47,6 +47,9 @@
 - [The Real Deal](https://therealdeal.com/) - Provides up-to-date news on the real estate market, focusing on New York, South Florida, and Los Angeles.
 - [RISMedia](https://blog.rismedia.com/) - RISMedia is a reputable source covering real estate news and trends. It also provides educational articles beneficial for new agents wanting to expand their knowledge.
 - [Tom Ferry's Real Estate Blog](https://blog.tomferry.com/) - Gain insights from Tom Ferry, a renowned real estate coach who shares valuable tips on sales, marketing, and mindset to help you succeed in your real estate career.
+- [The Close](https://theclose.com/) - Offers actionable real estate strategies, marketing tips, and insights to help agents and brokers succeed in their careers.
+- [HousingWire](https://www.housingwire.com/) - Provides comprehensive news coverage on the U.S. housing market, mortgage rates, and real estate trends.
+- [Inman](https://www.inman.com/) - Delivers the latest real estate news, trends, and analysis for industry professionals.
 
 ### Events
 
