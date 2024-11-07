@@ -73,6 +73,9 @@
 - [Zillow](https://www.zillow.com/) - One of the largest real estate marketplaces in the U.S. with listings, price estimates, and neighborhood data.
 - [LoopNet](https://www.loopnet.com/) - Leading commercial real estate marketplace with extensive listings of office, retail, and industrial properties.
 - [Realtor.com](https://www.realtor.com/) - A comprehensive real estate listing platform with extensive residential property data.
+- [Redfin](https://www.redfin.com/) - A technology-powered real estate brokerage offering comprehensive property listings, market insights, and professional agent services.
+- [Trulia](https://www.trulia.com/) - Provides detailed property listings along with neighborhood insights, crime maps, and school information to assist buyers and renters.
+- [Homes.com](https://www.homes.com/) - Offers a vast database of homes for sale and rent, along with tools for property valuation and neighborhood research.
 
 ### Analytics Platforms
 
