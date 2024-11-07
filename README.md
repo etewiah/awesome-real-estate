@@ -61,6 +61,9 @@
 - [Chrisman Commentary - Daily Mortgage News](https://open.spotify.com/show/3XsABmcuSD7vdYjfE8QlyO) - A daily snapshot of what is happening in the mortgage industry and with mortgage rates.
 - [BiggerPockets Real Estate Podcast](https://www.biggerpockets.com/podcast) - Offers insights and advice on real estate investing and market trends.
 - [Real Estate The Ramsey Way](https://www.ramseysolutions.com/shows/real-estate-the-ramsey-way) - Learn from Dave Ramsey and his team of experts how to build wealth through buying, selling, and investing in real estate the Ramsey way.
+- [Real Estate Rockstars](https://hibandigital.com/shows/) - Hosted by Pat Hiban, featuring interviews with top real estate professionals sharing their strategies and success stories.
+- [The Tom Ferry Podcast Experience](https://www.tomferry.com/podcast/) - Hosted by Tom Ferry, this podcast provides actionable advice on sales, marketing, and personal development for real estate professionals.
+- [Real Estate Today Radio](https://www.realtor.com/news/real-estate-news/real-estate-today-radio/) - Produced by the National Association of Realtors, this podcast provides the latest news and information on the real estate market for both professionals and consumers.
 
 ### Marketplaces
 
