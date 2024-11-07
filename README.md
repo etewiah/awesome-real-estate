@@ -88,6 +88,9 @@
 - [Follow Up Boss](https://www.followupboss.com/) - A CRM for real estate teams to streamline lead management and follow-up processes.
 - [Realvolve](https://www.realvolve.com/) - A CRM combining workflow automation, contact management, and transaction management for real estate agents.
 - [Zoho CRM for Real Estate](https://www.zoho.com/crm/solutions/real-estate/) - A customizable CRM solution tailored for real estate professionals, offering automation and client management features.
+- [LionDesk](https://www.liondesk.com/) - A CRM platform designed for real estate professionals, offering features like automated follow-ups, email and text marketing, and transaction management.
+- [Wise Agent](https://www.wiseagent.com/) - Provides a comprehensive suite of tools including contact management, transaction tracking, and marketing automation tailored for real estate agents.
+- [Top Producer](https://www.topproducer.com/) - A CRM solution that helps real estate professionals manage leads, contacts, and follow-ups, with integration capabilities for various lead sources.
 
 ### Educational Resources
 
