@@ -45,6 +45,11 @@
 - [GeekEstateBlog](http://geekestateblog.com/) - Insightful articles with a focus on technology.
 - [Notorious Rob](http://www.notorious-rob.com/) - Highly opinionated look at industry trends.
 - [The Real Deal](https://therealdeal.com/) - Provides up-to-date news on the real estate market, focusing on New York, South Florida, and Los Angeles.
+- [RISMedia](https://blog.rismedia.com/) - RISMedia is a reputable source covering real estate news and trends. It also provides educational articles beneficial for new agents wanting to expand their knowledge.
+- [Tom Ferry's Real Estate Blog](https://blog.tomferry.com/) - Gain insights from Tom Ferry, a renowned real estate coach who shares valuable tips on sales, marketing, and mindset to help you succeed in your real estate career.
+- [The Close](https://theclose.com/) - Offers actionable real estate strategies, marketing tips, and insights to help agents and brokers succeed in their careers.
+- [HousingWire](https://www.housingwire.com/) - Provides comprehensive news coverage on the U.S. housing market, mortgage rates, and real estate trends.
+- [Inman](https://www.inman.com/) - Delivers the latest real estate news, trends, and analysis for industry professionals.
 
 ### Events
 
@@ -58,12 +63,19 @@
 - [Super Agents Live](https://player.fm/series/super-agents-live-real-estate-coaching) - Leading podcast for agents with insights on how to improve your game.
 - [Chrisman Commentary - Daily Mortgage News](https://open.spotify.com/show/3XsABmcuSD7vdYjfE8QlyO) - A daily snapshot of what is happening in the mortgage industry and with mortgage rates.
 - [BiggerPockets Real Estate Podcast](https://www.biggerpockets.com/podcast) - Offers insights and advice on real estate investing and market trends.
+- [Real Estate The Ramsey Way](https://www.ramseysolutions.com/shows/real-estate-the-ramsey-way) - Learn from Dave Ramsey and his team of experts how to build wealth through buying, selling, and investing in real estate the Ramsey way.
+- [Real Estate Rockstars](https://hibandigital.com/shows/) - Hosted by Pat Hiban, featuring interviews with top real estate professionals sharing their strategies and success stories.
+- [The Tom Ferry Podcast Experience](https://www.tomferry.com/podcast/) - Hosted by Tom Ferry, this podcast provides actionable advice on sales, marketing, and personal development for real estate professionals.
+- [Real Estate Today Radio](https://www.realtor.com/news/real-estate-news/real-estate-today-radio/) - Produced by the National Association of Realtors, this podcast provides the latest news and information on the real estate market for both professionals and consumers.
 
 ### Marketplaces
 
 - [Zillow](https://www.zillow.com/) - One of the largest real estate marketplaces in the U.S. with listings, price estimates, and neighborhood data.
 - [LoopNet](https://www.loopnet.com/) - Leading commercial real estate marketplace with extensive listings of office, retail, and industrial properties.
 - [Realtor.com](https://www.realtor.com/) - A comprehensive real estate listing platform with extensive residential property data.
+- [Redfin](https://www.redfin.com/) - A technology-powered real estate brokerage offering comprehensive property listings, market insights, and professional agent services.
+- [Trulia](https://www.trulia.com/) - Provides detailed property listings along with neighborhood insights, crime maps, and school information to assist buyers and renters.
+- [Homes.com](https://www.homes.com/) - Offers a vast database of homes for sale and rent, along with tools for property valuation and neighborhood research.
 
 ### Analytics Platforms
 
@@ -76,6 +88,9 @@
 - [Follow Up Boss](https://www.followupboss.com/) - A CRM for real estate teams to streamline lead management and follow-up processes.
 - [Realvolve](https://www.realvolve.com/) - A CRM combining workflow automation, contact management, and transaction management for real estate agents.
 - [Zoho CRM for Real Estate](https://www.zoho.com/crm/solutions/real-estate/) - A customizable CRM solution tailored for real estate professionals, offering automation and client management features.
+- [LionDesk](https://www.liondesk.com/) - A CRM platform designed for real estate professionals, offering features like automated follow-ups, email and text marketing, and transaction management.
+- [Wise Agent](https://www.wiseagent.com/) - Provides a comprehensive suite of tools including contact management, transaction tracking, and marketing automation tailored for real estate agents.
+- [Top Producer](https://www.topproducer.com/) - A CRM solution that helps real estate professionals manage leads, contacts, and follow-ups, with integration capabilities for various lead sources.
 
 ### Educational Resources
 
