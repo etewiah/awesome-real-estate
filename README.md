@@ -24,105 +24,131 @@
 
 ## Accelerators / Venture Funds
 
-- [Blackprint](http://www.blackprintbooster.vc) - German-based proptech accelerator.
-- [MetaProp](http://www.metaprop.org/) - New York-based program for early-stage companies.
-- [Moderne Ventures](https://www.moderneventures.com/) - Early-stage venture fund focused on technology companies.
-- [NARReach](http://www.narreach.com/) - US National Association of Realtors backed accelerator.
-- [Pilabs](http://pilabs.co.uk/) - European property tech venture capital firm.
-- [Fifth Wall](https://fifthwall.com/) - A venture capital firm focused on technology solutions for the global real estate industry.
+| Accelerator&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                                                              |
+| -------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
+| [Blackprint](http://www.blackprintbooster.vc)                                     | German-based proptech accelerator.                                                                       |
+| [MetaProp](http://www.metaprop.org/)                                              | New York-based program for early-stage companies.                                                        |
+| [Moderne Ventures](https://www.moderneventures.com/)                              | Early-stage venture fund focused on technology companies.                                                |
+| [NARReach](http://www.narreach.com/)                                              | US National Association of Realtors backed accelerator.                                                  |
+| [Pilabs](http://pilabs.co.uk/)                                                    | European property tech venture capital firm.                                                             |
+| [Fifth Wall](https://fifthwall.com/)                                              | A venture capital firm focused on technology solutions for the global real estate industry.              |
 
 ## GitHub Projects
 
-- [EasyPropertyListings](https://github.com/easypropertylistings/Easy-Property-Listings) - WordPress plugin for property listings.
-- [PropertyWebBuilder](https://github.com/etewiah/property_web_builder) - Powerful, quick property listings website builder.
-- [HomeHarvest](https://github.com/Bunsly/HomeHarvest) - Python package for scraping real estate property data.
-- [Real Estate Data Scraper](https://github.com/oxylabs/scraping-real-estate-data-with-python) - A Python-based tool for scraping real estate property data from various listing websites.
+| Project&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                                                             |
+| -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
+| [EasyPropertyListings](https://github.com/easypropertylistings/Easy-Property-Listings)                   | WordPress plugin for property listings.                                                                 |
+| [PropertyWebBuilder](https://github.com/etewiah/property_web_builder)                                    | A fast property listings website builder.                                                               |
+| [HomeHarvest](https://github.com/Bunsly/HomeHarvest)                                                    | Python package for scraping real estate property data.                                                  |
+| [Real Estate Data Scraper](https://github.com/oxylabs/scraping-real-estate-data-with-python)             | A Python-based tool for scraping data from listing websites.                                            |
 
 ## Resources
 
 ### Blogs
 
-- [GeekEstateBlog](http://geekestateblog.com/) - Insightful articles with a focus on technology.
-- [Notorious Rob](http://www.notorious-rob.com/) - Highly opinionated look at industry trends.
-- [The Real Deal](https://therealdeal.com/) - Provides up-to-date news on the real estate market, focusing on New York, South Florida, and Los Angeles.
-- [RISMedia](https://blog.rismedia.com/) - RISMedia is a reputable source covering real estate news and trends. It also provides educational articles beneficial for new agents wanting to expand their knowledge.
-- [Tom Ferry's Real Estate Blog](https://blog.tomferry.com/) - Gain insights from Tom Ferry, a renowned real estate coach who shares valuable tips on sales, marketing, and mindset to help you succeed in your real estate career.
-- [The Close](https://theclose.com/) - Offers actionable real estate strategies, marketing tips, and insights to help agents and brokers succeed in their careers.
-- [HousingWire](https://www.housingwire.com/) - Provides comprehensive news coverage on the U.S. housing market, mortgage rates, and real estate trends.
-- [Inman](https://www.inman.com/) - Delivers the latest real estate news, trends, and analysis for industry professionals.
+| Blog&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                                                                           |
+| ---------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
+| [GeekEstateBlog](http://geekestateblog.com/)                                                         | Insightful articles with a focus on technology.                                                                       |
+| [Notorious Rob](http://www.notorious-rob.com/)                                                       | Highly opinionated look at industry trends.                                                                           |
+| [The Real Deal](https://therealdeal.com/)                                                            | Provides up-to-date news on the real estate market, focusing on New York, South Florida, and Los Angeles.             |
+| [RISMedia](https://blog.rismedia.com/)                                                               | Covers real estate news and trends with educational articles for agents expanding their knowledge.                    |
+| [Tom Ferry's Real Estate Blog](https://blog.tomferry.com/)                                           | Gain insights from Tom Ferry on sales, marketing, and mindset.                                                        |
+| [The Close](https://theclose.com/)                                                                   | Offers actionable strategies, marketing tips, and insights to help agents succeed.                                    |
+| [HousingWire](https://www.housingwire.com/)                                                          | Comprehensive news on the U.S. housing market, mortgage rates, and trends.                                            |
+| [Inman](https://www.inman.com/)                                                                      | Latest real estate news, trends, and analysis for industry professionals.                                             |
 
 ### Events
 
-- [Inman Connect](https://www.inman.com/event/icsf17/) - Week-long real estate showcase.
-- [MIPIM](http://www.mipim.com/) - Leading global real estate event held annually over 4 days in Cannes, France.
-- [PropTech Summit](https://proptechsummit.com/) - An annual event showcasing the latest technology innovations in real estate.
+| Event&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                                                                            |
+| ----------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| [Inman Connect](https://www.inman.com/event/icsf17/)                                                  | Week-long real estate showcase.                                                                                  |
+| [MIPIM](http://www.mipim.com/)                                                                        | Leading global real estate event held annually over 4 days in Cannes, France.                                    |
+| [PropTech Summit](https://proptechsummit.com/)                                                        | An annual event showcasing the latest technology innovations in real estate.                                      |
 
 ### Podcasts
 
-- [Listing Bits](http://listingbits.libsyn.com) - Real estate tech talk with a focus on the US.
-- [Super Agents Live](https://player.fm/series/super-agents-live-real-estate-coaching) - Leading podcast for agents with insights on how to improve your game.
-- [Chrisman Commentary - Daily Mortgage News](https://open.spotify.com/show/3XsABmcuSD7vdYjfE8QlyO) - A daily snapshot of what is happening in the mortgage industry and with mortgage rates.
-- [BiggerPockets Real Estate Podcast](https://www.biggerpockets.com/podcast) - Offers insights and advice on real estate investing and market trends.
-- [Real Estate The Ramsey Way](https://www.ramseysolutions.com/shows/real-estate-the-ramsey-way) - Learn from Dave Ramsey and his team of experts how to build wealth through buying, selling, and investing in real estate the Ramsey way.
-- [Real Estate Rockstars](https://hibandigital.com/shows/) - Hosted by Pat Hiban, featuring interviews with top real estate professionals sharing their strategies and success stories.
-- [The Tom Ferry Podcast Experience](https://www.tomferry.com/podcast/) - Hosted by Tom Ferry, this podcast provides actionable advice on sales, marketing, and personal development for real estate professionals.
-- [Real Estate Today Radio](https://www.realtor.com/news/real-estate-news/real-estate-today-radio/) - Produced by the National Association of Realtors, this podcast provides the latest news and information on the real estate market for both professionals and consumers.
+| Podcast&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                                                                                |
+| -------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| [Listing Bits](http://listingbits.libsyn.com)                                                            | Real estate tech talk with a focus on the US.                                                                              |
+| [Super Agents Live](https://player.fm/series/super-agents-live-real-estate-coaching)                     | Leading podcast for agents with insights on how to improve your game.                                                     |
+| [Chrisman Commentary - Daily Mortgage News](https://open.spotify.com/show/3XsABmcuSD7vdYjfE8QlyO)        | Daily mortgage industry news and rate snapshots.                                                                          |
+| [BiggerPockets Real Estate Podcast](https://www.biggerpockets.com/podcast)                               | Insights on real estate investing and market trends.                                                                       |
+| [Real Estate The Ramsey Way](https://www.ramseysolutions.com/shows/real-estate-the-ramsey-way)           | Advice from Dave Ramsey on building wealth through real estate.                                                            |
+| [Real Estate Rockstars](https://hibandigital.com/shows/)                                                 | Hosted by Pat Hiban, featuring strategies and success stories from top professionals.                                      |
+| [The Tom Ferry Podcast Experience](https://www.tomferry.com/podcast/)                                    | Expert advice on sales, marketing, and personal development from Tom Ferry.                                                |
+| [Real Estate Today Radio](https://www.realtor.com/news/real-estate-news/real-estate-today-radio/)        | Produced by NAR, with the latest market news and information.                                                              |
 
 ### Marketplaces
 
-- [Zillow](https://www.zillow.com/) - One of the largest real estate marketplaces in the U.S. with listings, price estimates, and neighborhood data.
-- [LoopNet](https://www.loopnet.com/) - Leading commercial real estate marketplace with extensive listings of office, retail, and industrial properties.
-- [Realtor.com](https://www.realtor.com/) - A comprehensive real estate listing platform with extensive residential property data.
-- [Redfin](https://www.redfin.com/) - A technology-powered real estate brokerage offering comprehensive property listings, market insights, and professional agent services.
-- [Trulia](https://www.trulia.com/) - Provides detailed property listings along with neighborhood insights, crime maps, and school information to assist buyers and renters.
-- [Homes.com](https://www.homes.com/) - Offers a vast database of homes for sale and rent, along with tools for property valuation and neighborhood research.
+| Marketplace&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                                                                     |
+| ------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------- |
+| [Zillow](https://www.zillow.com/)                                                                            | One of the largest U.S. real estate marketplaces, with listings, price estimates, and neighborhood data.        |
+| [LoopNet](https://www.loopnet.com/)                                                                          | Leading marketplace for commercial real estate listings.                                                        |
+| [Realtor.com](https://www.realtor.com/)                                                                      | Comprehensive residential property listings and data.                                                           |
+| [Redfin](https://www.redfin.com/)                                                                            | Technology-powered brokerage offering listings, insights, and agent services.                                   |
+| [Trulia](https://www.trulia.com/)                                                                            | Property listings with neighborhood insights, crime maps, and school information.                               |
+| [Homes.com](https://www.homes.com/)                                                                          | Database of homes for sale and rent, with tools for property valuation and neighborhood research.               |
 
 ### Analytics Platforms
 
-- [HouseCanary](https://www.housecanary.com/) - Provides real estate data and analytics, including home valuation models and market forecasting.
-- [CompStak](https://www.compstak.com/) - Offers crowdsourced commercial real estate data, focusing on lease and sales comparables.
-- [Reonomy](https://www.reonomy.com/) - Provides detailed commercial real estate data and analytics, including property records and ownership information.
+| Platform&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                                                                          |
+| --------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
+| [HouseCanary](https://www.housecanary.com/)                                                               | Real estate data and analytics, including home valuation models and market forecasting.                              |
+| [CompStak](https://www.compstak.com/)                                                                     | Crowdsourced commercial real estate data focusing on lease and sales comparables.                                    |
+| [Reonomy](https://www.reonomy.com/)                                                                       | Provides commercial real estate data and analytics, including property records and ownership information.            |
 
 ### CRMs
 
-- [Follow Up Boss](https://www.followupboss.com/) - A CRM for real estate teams to streamline lead management and follow-up processes.
-- [Realvolve](https://www.realvolve.com/) - A CRM combining workflow automation, contact management, and transaction management for real estate agents.
-- [Zoho CRM for Real Estate](https://www.zoho.com/crm/solutions/real-estate/) - A customizable CRM solution tailored for real estate professionals, offering automation and client management features.
-- [LionDesk](https://www.liondesk.com/) - A CRM platform designed for real estate professionals, offering features like automated follow-ups, email and text marketing, and transaction management.
-- [Wise Agent](https://www.wiseagent.com/) - Provides a comprehensive suite of tools including contact management, transaction tracking, and marketing automation tailored for real estate agents.
-- [Top Producer](https://www.topproducer.com/) - A CRM solution that helps real estate professionals manage leads, contacts, and follow-ups, with integration capabilities for various lead sources.
+| CRM&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                                                      |
+| ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| [Follow Up Boss](https://www.followupboss.com/)                                                       | Streamlines lead management and follow-up for real estate teams.                                 |
+| [Realvolve](https://www.realvolve.com/)                                                               | Combines workflow automation, contact management, and transaction management for agents.         |
+| [Zoho CRM for Real Estate](https://www.zoho.com/crm/solutions/real-estate/)                           | Customizable solution for real estate professionals with automation features.                     |
+| [LionDesk](https://www.liondesk.com/)                                                                 | Offers automated follow-ups, email and text marketing, and transaction management.               |
+| [Wise Agent](https://www.wiseagent.com/)                                                              | Comprehensive suite for contact management, transaction tracking, and marketing automation.       |
+| [Top Producer](https://www.topproducer.com/)                                                          | Manages leads, contacts, and follow-ups with integrations for lead sources.                     |
 
 ### Educational Resources
 
-- [BiggerPockets](https://www.biggerpockets.com/) - A leading platform for real estate investors, providing education, podcasts, and networking.
-- [Masterclass: Real Estate](https://www.masterclass.com/) - Professional real estate courses from industry experts.
-- [Udemy Real Estate Courses](https://www.udemy.com/topic/real-estate/) - Offers a variety of courses covering real estate investing, property management, and market analysis.
+| Resource&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                                                      |
+| ---------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| [BiggerPockets](https://www.biggerpockets.com/)                                                            | A leading platform for real estate investors, providing education, podcasts, and networking opportunities.          |
+| [Masterclass: Real Estate](https://www.masterclass.com/)                                                   | Professional real estate courses taught by industry experts.                                                        |
+| [Udemy Real Estate Courses](https://www.udemy.com/topic/real-estate/)                                      | Offers a variety of courses on real estate investing, property management, and market analysis.                     |
 
 ### Visualization Tools
 
-- [Matterport](https://www.matterport.com/) - A 3D visualization platform for real estate professionals to create immersive virtual tours of properties.
-- [Cubicasa](https://www.cubicasa.com/) - A fast and accurate floor plan generation tool for real estate listings.
-- [iGUIDE](https://goiguide.com/) - Provides interactive 3D tours and floor plans for real estate listings.
+| Tool&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                                                                  |
+| ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
+| [Matterport](https://www.matterport.com/)                                                             | A 3D visualization platform for creating immersive virtual property tours.                                   |
+| [Cubicasa](https://www.cubicasa.com/)                                                                 | Quick and accurate floor plan generation tool for real estate listings.                                       |
+| [iGUIDE](https://goiguide.com/)                                                                       | Provides interactive 3D tours and detailed floor plans for property listings.                                |
 
 ## Software
 
 ### APIs
 
-- [Onboard Informatics Community API](https://developer.onboard-apis.com/products/Community-API) - Provides access to a rich set of local information.
-- [Rets Rabbit](http://www.retsrabbit.com) - Import real estate listings and photos from RETS or ListHub.
-- [Zoo Property](http://www.zooproperty.com/api/) - RESTful API to manage property listings.
-- [ATTOM Data Solutions API](https://www.attomdata.com/solutions/property-data-api/) - Offers comprehensive property data, including ownership, mortgage, and neighborhood information.
+| API&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                                                                    |
+| ---------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| [Onboard Informatics Community API](https://developer.onboard-apis.com/products/Community-API)       | Access to a wide range of local information, such as school districts and crime rates.                         |
+| [Rets Rabbit](http://www.retsrabbit.com)                                                             | Imports real estate listings and photos from RETS or ListHub.                                                  |
+| [Zoo Property](http://www.zooproperty.com/api/)                                                      | RESTful API for managing property listings, including photos and descriptions.                                |
+| [ATTOM Data Solutions API](https://www.attomdata.com/solutions/property-data-api/)                   | Comprehensive property data, including ownership, mortgage, and neighborhood information.                   |
 
 ### Lead Page Builders
 
-- [SinglePropertyPages](https://singlepropertypages.com) - Affordable and easy-to-use lead page builder.
-- [Kunversion](https://kunversion.com) - Lead generation platform.
-- [Placester](https://www.placester.com/) - A platform that offers website building and lead generation tools specifically designed for real estate professionals.
+| Lead Page Builder&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                                                                   |
+| ------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------- |
+| [SinglePropertyPages](https://singlepropertypages.com)                                                             | An affordable and easy-to-use lead page builder for individual property listings.                             |
+| [Kunversion](https://kunversion.com)                                                                               | Lead generation platform with tools designed for real estate professionals.                                   |
+| [Placester](https://www.placester.com/)                                                                            | Website building and lead generation tools specifically designed for real estate agents.                      |
 
 ### Website Providers
 
-- [Listerswebs](https://listerswebs.com) - All-inclusive, fully custom website suite built specifically for marketing to home sellers.
-- [Easy Agent PRO](https://www.easyagentpro.com/) - Provides customizable real estate websites with integrated CRM and lead generation tools.
+| Website Provider&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                                                             |
+| ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
+| [Listerswebs](https://listerswebs.com)                                                                            | All-inclusive, fully custom website suite built specifically for marketing to home sellers.             |
+| [Easy Agent PRO](https://www.easyagentpro.com/)                                                                   | Customizable real estate websites with integrated CRM and lead generation tools.                        |
 
 ## License
 
