@@ -114,6 +114,7 @@
 - [Matterport](https://www.matterport.com/) - A 3D visualization platform for real estate professionals to create immersive virtual tours of properties.
 - [Cubicasa](https://www.cubicasa.com/) - A fast and accurate floor plan generation tool for real estate listings.
 - [iGUIDE](https://goiguide.com/) - Provides interactive 3D tours and floor plans for real estate listings.
+- [AI Virtual Staging](https://www.aivirtualstaging.net/) - AI powered Virtual Staging that preserves the original room layout and dimensions
 
 ### Foundational Geospatial & Urban Data
 
