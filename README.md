@@ -129,6 +129,10 @@
 
 ## Software
 
+### Inspection & Reporting
+
+- [FieldScribe](https://fieldscribe.report) - Turn site photos and messy voice notes into professional, liability-proof inspection reports in seconds using AI.
+
 ### APIs
 
 - [Onboard Informatics Community API](https://developer.onboard-apis.com/products/Community-API) - Provides access to a rich set of local information.
