@@ -19,6 +19,7 @@
 - [Software](#software)
   - [APIs](#apis)
   - [AI & Virtual Assistants](#ai--virtual-assistants)
+  - [Inspection & Reporting](#inspection--reporting)
   - [Compliance & Permit Tools](#compliance--permit-tools)
   - [Lead Page Builders](#lead-page-builders)
   - [Website Providers](#website-providers)
@@ -150,6 +151,10 @@
 ### AI & Virtual Assistants
 
 - [AnveVoice](https://anvevoice.app) - AI voice agent for real estate websites that qualifies leads, schedules property showings, answers listing questions, and talks to visitors in 50+ languages.
+
+### Inspection & Reporting
+
+- [FieldScribe](https://fieldscribe.report) - Turn site photos and messy voice notes into professional, liability-proof inspection reports in seconds using AI.
 
 ### APIs
 
