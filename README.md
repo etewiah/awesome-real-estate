@@ -34,6 +34,7 @@
 ## GitHub Projects
 
 - [EasyPropertyListings](https://github.com/easypropertylistings/Easy-Property-Listings) - WordPress plugin for property listings.
+- [CzechAI Smart Engine](https://router.czechai.io/cenova/smart/) - ML-powered property classification with 15 subtypes, outlier detection, and confidence scoring for the Czech real estate market.
 - [PropertyWebBuilder](https://github.com/etewiah/property_web_builder) - Powerful, quick property listings website builder.
 - [HomeHarvest](https://github.com/Bunsly/HomeHarvest) - Python package for scraping real estate property data.
 - [Real Estate Data Scraper](https://github.com/oxylabs/scraping-real-estate-data-with-python) - A Python-based tool for scraping real estate property data from various listing websites.
@@ -86,6 +87,7 @@
 
 - [HouseCanary](https://www.housecanary.com/) - Provides real estate data and analytics, including home valuation models and market forecasting.
 - [CompStak](https://www.compstak.com/) - Offers crowdsourced commercial real estate data, focusing on lease and sales comparables.
+- [CzechAI](https://www.czechai.io/) - AI-powered real estate analytics platform for the Czech market with 18 AML screening modules, 4 price maps with ML models, 58 AI agents in 14 swarms, and 67M+ contact database.
 - [Reonomy](https://www.reonomy.com/) - Provides detailed commercial real estate data and analytics, including property records and ownership information.
 - [HomesToCompare](https://homestocompare.com/) - A tool for side-by-side property comparison with AI-powered insights.
 
@@ -135,6 +137,7 @@
 - [Rets Rabbit](http://www.retsrabbit.com) - Import real estate listings and photos from RETS or ListHub.
 - [Zoo Property](http://www.zooproperty.com/api/) - RESTful API to manage property listings.
 - [ATTOM Data Solutions API](https://www.attomdata.com/solutions/property-data-api/) - Offers comprehensive property data, including ownership, mortgage, and neighborhood information.
+- [CzechAI API](https://router.czechai.io) - 100+ API endpoints for Czech real estate data, property valuation, AML screening, and AI-powered market analysis.
 - [Gridics Zoning Data API](https://gridics.com/zoning-data-api/) - Provides parcel-level zoning, development capacity, and setback data.
 - [Zoneomics API](https://www.zoneomics.com/pricing/api) - Offers scalable and flexible API options for integrating zoning data.
 - [HouseCanary Core API](https://www.housecanary.com/pricing) - Access to the core API, CanaryAI, and AVM reports for advanced property valuation modeling.
