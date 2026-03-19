@@ -115,6 +115,7 @@
 - [Cubicasa](https://www.cubicasa.com/) - A fast and accurate floor plan generation tool for real estate listings.
 - [iGUIDE](https://goiguide.com/) - Provides interactive 3D tours and floor plans for real estate listings.
 - [AI Virtual Staging](https://www.aivirtualstaging.net/) - AI powered Virtual Staging that preserves the original room layout and dimensions
+- [EquitySight](https://equitysight.app/) - Free Australian property investment platform with tools to help buyers and investors make smarter decisions
 
 ### Foundational Geospatial & Urban Data
 
