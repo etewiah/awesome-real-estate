@@ -18,6 +18,7 @@
   - [Visualization Tools](#visualization-tools)
 - [Software](#software)
   - [APIs](#apis)
+  - [AI & Virtual Assistants](#ai--virtual-assistants)
   - [Lead Page Builders](#lead-page-builders)
   - [Website Providers](#website-providers)
 - [License](#license)
@@ -128,6 +129,10 @@
 - [PropTech Books](https://www.proptechbuzz.com/blog/proptech-books) - A compilation of essential books for understanding PropTech.
 
 ## Software
+
+### AI & Virtual Assistants
+
+- [AnveVoice](https://anvevoice.app) - AI voice agent for real estate websites that qualifies leads, schedules property showings, answers listing questions, and talks to visitors in 50+ languages.
 
 ### APIs
 
