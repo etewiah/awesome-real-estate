@@ -18,6 +18,7 @@
   - [Visualization Tools](#visualization-tools)
 - [Software](#software)
   - [APIs](#apis)
+  - [AI & Virtual Assistants](#ai--virtual-assistants)
   - [Compliance & Permit Tools](#compliance--permit-tools)
   - [Lead Page Builders](#lead-page-builders)
   - [Website Providers](#website-providers)
@@ -142,6 +143,10 @@
 - [Cost Segregation Benchmarks 2026](https://costsegsmart.com/research/benchmarks-2026/) - Open-data report on 260 cost segregation studies across 13 US property types. Reports median reclassification percentages, year-1 federal tax savings, and US provider pricing. CC-BY 4.0 licensed; CSV dataset available.
 
 ## Software
+
+### AI & Virtual Assistants
+
+- [AnveVoice](https://anvevoice.app) - AI voice agent for real estate websites that qualifies leads, schedules property showings, answers listing questions, and talks to visitors in 50+ languages.
 
 ### APIs
 
