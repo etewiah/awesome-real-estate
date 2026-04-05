@@ -109,6 +109,10 @@
 
 - [House Price Guess](https://housepriceguess.com/) - A fun game that challenges you to guess the prices of properties.
 
+### Financial Calculators
+
+- [CalcFi](https://calcfi.app/) - 312+ free financial calculators including mortgage payment, mortgage affordability, rent vs buy, cap rate, ROI, and real estate investment analysis. No signup, no ads.
+
 ### Visualization Tools
 
 - [Matterport](https://www.matterport.com/) - A 3D visualization platform for real estate professionals to create immersive virtual tours of properties.
