@@ -16,6 +16,7 @@
   - [CRMs](#crms)
   - [Educational Resources](#educational-resources)
   - [Visualization Tools](#visualization-tools)
+- [Cost Estimation & Calculators](#cost-estimation--calculators)
 - [Software](#software)
   - [APIs](#apis)
   - [Lead Page Builders](#lead-page-builders)
@@ -126,6 +127,15 @@
 
 - [Emerging Trends in Real Estate®](https://www.pwc.com/us/en/industries/financial-services/asset-wealth-management/real-estate/emerging-trends-in-real-estate-pwc-uli.html) - An annual forecast report on investment and development trends.
 - [PropTech Books](https://www.proptechbuzz.com/blog/proptech-books) - A compilation of essential books for understanding PropTech.
+
+## Cost Estimation & Calculators
+
+- [Simulateur Prix Construction Maison](https://simulateur-prix-construction-maison.fr/) - Free French construction cost estimator with 36 criteria and 25 budget line items, built by a construction professional with 30+ years of experience. Covers all regions of France.
+- [Budget-Maison.com](https://budget-maison.com/) - Quick French construction budget estimator.
+- [Calculette ForumConstruire](https://www.forumconstruire.com/calculatrices/) - Collection of French construction calculators (PTZ, surface, materials).
+- [HomeAdvisor True Cost Guide](https://www.homeadvisor.com/cost/) - U.S.-focused home improvement and construction cost data.
+- [RSMeans](https://www.rsmeans.com/) - Industry-standard construction cost data and estimation tools (U.S. and Canada).
+- [Build It Calculator](https://www.self-build.co.uk/calculator/) - UK self-build cost calculator.
 
 ## Software
 
