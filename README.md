@@ -156,6 +156,10 @@
 
 - [PropertySquares](https://propertysquares.com/) - A newsletter platform for property curators to create and share listings with commentary.
 
+### AI Marketplaces
+
+- [RemoteOpenClaw](https://remoteopenclaw.com) - Open marketplace for AI skills and personas built on OpenClaw.
+
 ## License
 
 [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
