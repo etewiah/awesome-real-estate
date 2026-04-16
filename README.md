@@ -96,6 +96,7 @@
 - [SafeStreets](https://safestreets.streetsandcommons.com) - Free address-level walkability and pedestrian-safety analysis with neighborhood scores and crash-based pedestrian risk, useful for relocation and property research.
 - [ReceiptClaimer](https://receiptclaimer.com.au) - AI-powered tax deduction tracking and audit reconciliation platform for Australian landlords and property investors. Automate expense tracking with OCR and maximize tax returns.
 - [ArchiWise](https://archiwise.ai) - AI-powered real estate pre-development and site selection platform that helps developers, architects, brokers, and planning consultants analyze zoning, feasibility, and site data in under 5 minutes.
+- [Japan Neighborhoods](https://japanneighborhoods.com) - Free neighborhood-level crime, safety, and property price data for 5,078 Tokyo neighborhoods. English-language government data for expat homebuyers and investors. Includes interactive crime map, safety grading (A+ to F), and REST API.
 
 ### CRMs
 
