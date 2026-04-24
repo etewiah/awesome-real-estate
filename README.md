@@ -156,6 +156,7 @@
 - [Staying API](https://stayingapi.com) - Real-time Airbnb and short-term rental listing data: photos, reviews, host, pricing, and 12-month availability by listing ID, URL, or address, or search by location, dates, and price. REST + MCP, free tier.
 - [UrbanKit Studio Parcel API](https://urbankitstudio.com/developers) - Address→owner/APN/mailing enrichment plus a verified ArcGIS REST endpoint directory for 155 US counties (free tier, $19/mo developer API, MCP server + npm SDK).
 - [Superhighway](https://superhighway.walls.sh) - Web search, news, scrape, and research API for AI agents. Useful for building real estate research agents that pull listings, scrape property pages, and gather neighborhood context. See the [real estate research agent guide](https://superhighway.walls.sh/guides/real-estate-agent).
+- [PermisAPI](https://permisapi.fr) - REST API for 311,000+ French building permits (Sitadel dataset, geocoded via BAN, webhooks, Python SDK).
 
 ### Compliance & Permit Tools
 
