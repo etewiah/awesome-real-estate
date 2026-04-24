@@ -140,6 +140,7 @@
 - [HouseCanary Core API](https://www.housecanary.com/pricing) - Access to the core API, CanaryAI, and AVM reports for advanced property valuation modeling.
 - [RentCast API](https://www.rentcast.io/api) - Scalable API for rental estimates, market data, and portfolio monitoring.
 - [RealEstateAPI.com](http://www.realestateapi.com/) - API designed for PropTech solutions with unlimited property data and integrated machine-learning capabilities.
+- [PermisAPI](https://permisapi.fr) - REST API for 311,000+ French building permits (Sitadel dataset, geocoded via BAN, webhooks, Python SDK).
 
 ### Lead Page Builders
 
