@@ -89,6 +89,7 @@
 - [Reonomy](https://www.reonomy.com/) - Provides detailed commercial real estate data and analytics, including property records and ownership information.
 - [HomesToCompare](https://homestocompare.com/) - A tool for side-by-side property comparison with AI-powered insights.
 
+- [Amortio](https://www.amortio.com/) - Free mortgage calculators using Freddie Mac PMMS rate data, with PITI breakdown, FHA/VA/USDA loan eligibility, and refinance break-even analysis. https://www.amortio.com/
 ### CRMs
 
 - [Follow Up Boss](https://www.followupboss.com/) - A CRM for real estate teams to streamline lead management and follow-up processes.
