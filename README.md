@@ -88,6 +88,7 @@
 - [CompStak](https://www.compstak.com/) - Offers crowdsourced commercial real estate data, focusing on lease and sales comparables.
 - [Reonomy](https://www.reonomy.com/) - Provides detailed commercial real estate data and analytics, including property records and ownership information.
 - [HomesToCompare](https://homestocompare.com/) - A tool for side-by-side property comparison with AI-powered insights.
+- [ReceiptClaimer](https://receiptclaimer.com.au) - AI-powered tax deduction tracking and audit reconciliation platform for Australian landlords and property investors. Automate expense tracking with OCR and maximize tax returns.
 
 ### CRMs
 
