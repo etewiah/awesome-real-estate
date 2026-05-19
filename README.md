@@ -42,6 +42,7 @@
 - [Real-Estate-Financial-Analytics-Dashboard](https://github.com/YSayaovong/Real-Estate-Financial-Analytics-Dashboard) - A Power BI and PostgreSQL dashboard for long-term rental property financial analysis.
 - [Investment Portfolio Optimization](https://github.com/MarionJelimo/real-estate-investment-portfolio-optimization-using-time-series) - A project for time series forecasting of property values.
 - [Real Estate Price Prediction Project](https://github.com/shanuhalli/Project-Real-Estate-Price-Prediction) - An end-to-end data science project for real estate price prediction.
+- [BailleurVerif](https://github.com/Creariax5/bailleurverif) - Open dataset of non-compliant French rental listings (7 cities, ~210 listings/wave, 11 git-timestamped temporal waves, 57.6% cross-wave persistence, daily crawl). MIT-licensed Python pipeline + Etalab v2.0 dataset on data.gouv.fr for housing market research and regulatory compliance analytics.
 
 ## Resources
 
