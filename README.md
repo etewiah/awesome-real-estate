@@ -126,6 +126,7 @@
 
 - [Emerging Trends in Real Estate®](https://www.pwc.com/us/en/industries/financial-services/asset-wealth-management/real-estate/emerging-trends-in-real-estate-pwc-uli.html) - An annual forecast report on investment and development trends.
 - [PropTech Books](https://www.proptechbuzz.com/blog/proptech-books) - A compilation of essential books for understanding PropTech.
+- [Prestyj Lead Response & AI Sales Statistics](https://prestyj.com/data) - Open dataset (CC BY 4.0) of 58 cite-worthy statistics on speed-to-lead, real estate ISA response benchmarks, AI adoption in sales, and CPL by industry. Downloadable as CSV/JSON; each row carries its primary publisher (HBR, InsideSales, HubSpot, McKinsey, etc.) and year.
 
 ## Software
 
