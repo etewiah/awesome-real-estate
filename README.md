@@ -42,6 +42,7 @@
 - [Real-Estate-Financial-Analytics-Dashboard](https://github.com/YSayaovong/Real-Estate-Financial-Analytics-Dashboard) - A Power BI and PostgreSQL dashboard for long-term rental property financial analysis.
 - [Investment Portfolio Optimization](https://github.com/MarionJelimo/real-estate-investment-portfolio-optimization-using-time-series) - A project for time series forecasting of property values.
 - [Real Estate Price Prediction Project](https://github.com/shanuhalli/Project-Real-Estate-Price-Prediction) - An end-to-end data science project for real estate price prediction.
+- [Redfin Scraper](https://github.com/Freshactors/freshactors-scrapers) - HTTP/JSON scraper for Redfin US real-estate listings and sold data (by city/ZIP), with Python/Node/cURL examples and a daily-monitored hosted Apify Actor.
 
 ## Resources
 
