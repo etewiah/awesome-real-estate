@@ -92,6 +92,7 @@
 - [Reonomy](https://www.reonomy.com/) - Provides detailed commercial real estate data and analytics, including property records and ownership information.
 - [HomesToCompare](https://homestocompare.com/) - A tool for side-by-side property comparison with AI-powered insights.
 - [WohnRadar Schweiz](https://wohnradarschweiz.ch/) - Monitors official Swiss building-permit notices (Baugesuche) by address and alerts owners/neighbors by email before the public objection deadline expires.
+- [SafeStreets](https://safestreets.streetsandcommons.com) - Free address-level walkability and pedestrian-safety analysis with neighborhood scores and crash-based pedestrian risk, useful for relocation and property research.
 
 ### CRMs
 
