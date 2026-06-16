@@ -140,6 +140,7 @@
 - [HouseCanary Core API](https://www.housecanary.com/pricing) - Access to the core API, CanaryAI, and AVM reports for advanced property valuation modeling.
 - [RentCast API](https://www.rentcast.io/api) - Scalable API for rental estimates, market data, and portfolio monitoring.
 - [RealEstateAPI.com](http://www.realestateapi.com/) - API designed for PropTech solutions with unlimited property data and integrated machine-learning capabilities.
+- [Superhighway](https://superhighway.walls.sh) - Web search, news, scrape, and research API for AI agents. Useful for building real estate research agents that pull listings, scrape property pages, and gather neighborhood context. See the [real estate research agent guide](https://superhighway.walls.sh/guides/real-estate-agent).
 
 ### Lead Page Builders
 
