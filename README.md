@@ -120,6 +120,7 @@
 - [iGUIDE](https://goiguide.com/) - Provides interactive 3D tours and floor plans for real estate listings.
 - [AI Virtual Staging](https://www.aivirtualstaging.net/) - AI powered Virtual Staging that preserves the original room layout and dimensions
 - [Pedra](https://pedra.ai) - AI virtual staging, photo enhancement, renovation renders, and property videos for real-estate listings
+- [Ritn3D](https://www.ritn3d.com/) - AI floor plan to 3D model converter. Upload a PDF, JPG, or PNG floor plan and get a walkable 3D interior model in under 2 minutes. Free tier, native iOS and Android apps, web app, and share-via-browser-link with no install for the recipient.
 
 ### Foundational Geospatial & Urban Data
 
