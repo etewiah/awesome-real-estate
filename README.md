@@ -148,6 +148,7 @@
 - [RentCast API](https://www.rentcast.io/api) - Scalable API for rental estimates, market data, and portfolio monitoring.
 - [RealEstateAPI.com](http://www.realestateapi.com/) - API designed for PropTech solutions with unlimited property data and integrated machine-learning capabilities.
 - [Staying API](https://stayingapi.com) - Real-time Airbnb and short-term rental listing data: photos, reviews, host, pricing, and 12-month availability by listing ID, URL, or address, or search by location, dates, and price. REST + MCP, free tier.
+- [UrbanKit Studio Parcel API](https://urbankitstudio.com/developers) - Address→owner/APN/mailing enrichment plus a verified ArcGIS REST endpoint directory for 155 US counties (free tier, $19/mo developer API, MCP server + npm SDK).
 
 ### Compliance & Permit Tools
 
