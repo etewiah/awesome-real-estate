@@ -140,6 +140,7 @@
 - [HouseCanary Core API](https://www.housecanary.com/pricing) - Access to the core API, CanaryAI, and AVM reports for advanced property valuation modeling.
 - [RentCast API](https://www.rentcast.io/api) - Scalable API for rental estimates, market data, and portfolio monitoring.
 - [RealEstateAPI.com](http://www.realestateapi.com/) - API designed for PropTech solutions with unlimited property data and integrated machine-learning capabilities.
+- [UrbanKit Studio Parcel API](https://urbankitstudio.com/developers) - Address→owner/APN/mailing enrichment plus a verified ArcGIS REST endpoint directory for 155 US counties (free tier, $19/mo developer API, MCP server + npm SDK).
 
 ### Lead Page Builders
 
