@@ -140,6 +140,7 @@
 - [HouseCanary Core API](https://www.housecanary.com/pricing) - Access to the core API, CanaryAI, and AVM reports for advanced property valuation modeling.
 - [RentCast API](https://www.rentcast.io/api) - Scalable API for rental estimates, market data, and portfolio monitoring.
 - [RealEstateAPI.com](http://www.realestateapi.com/) - API designed for PropTech solutions with unlimited property data and integrated machine-learning capabilities.
+- [Zillapi](https://zillapi.com) - Zillow Data API for developers: Zestimate, photos, schools, taxes, price history. 300+ fields, 160M+ parcels, one REST call. Free tier.
 
 ### Lead Page Builders
 
