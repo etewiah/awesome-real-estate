@@ -18,7 +18,9 @@ jobs:
         id: lychee
         uses: lycheeverse/lychee-action@v2
         with:
-          args: --config .github/lychee.toml --format markdown --output ./lychee-out.md README.md
+          args: --config .github/lychee.toml README.md
+          format: markdown
+          output: ./lychee/out.md
           fail: ${{ github.event_name == 'pull_request' }}
 
       - name: Open/update an issue with broken links (scheduled runs only)
@@ -26,5 +28,5 @@ jobs:
         uses: peter-evans/create-issue-from-file@v5
         with:
           title: 'Broken links found in README.md'
-          content-filepath: ./lychee-out.md
+          content-filepath: ./lychee/out.md
           labels: broken-links, automated
