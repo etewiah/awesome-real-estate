@@ -118,6 +118,7 @@
 - [Cubicasa](https://www.cubicasa.com/) - A fast and accurate floor plan generation tool for real estate listings.
 - [iGUIDE](https://goiguide.com/) - Provides interactive 3D tours and floor plans for real estate listings.
 - [AI Virtual Staging](https://www.aivirtualstaging.net/) - AI powered Virtual Staging that preserves the original room layout and dimensions
+- [Pedra](https://pedra.ai) - AI virtual staging, photo enhancement, renovation renders, and property videos for real-estate listings
 
 ### Foundational Geospatial & Urban Data
 
