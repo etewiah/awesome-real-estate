@@ -47,7 +47,6 @@
 - [Investment Portfolio Optimization](https://github.com/MarionJelimo/real-estate-investment-portfolio-optimization-using-time-series) - A project for time series forecasting of property values.
 - [Real Estate Price Prediction Project](https://github.com/shanuhalli/Project-Real-Estate-Price-Prediction) - An end-to-end data science project for real estate price prediction.
 - [Redfin Scraper](https://github.com/Freshactors/freshactors-scrapers) - HTTP/JSON scraper for Redfin US real-estate listings and sold data (by city/ZIP), with Python/Node/cURL examples and a daily-monitored hosted Apify Actor.
-- [Simulateur Prix Construction Maison](https://simulateur-prix-construction-maison.fr/) - Free French construction cost estimator analyzing 36 criteria across 25 budget categories. Estimates home building costs per m² by region and construction type.
 
 ## Resources
 
@@ -151,7 +150,6 @@
 
 - [Simulateur Prix Construction Maison](https://simulateur-prix-construction-maison.fr/) - Free French construction cost estimator with 36 criteria and 25 budget line items, built by a construction professional with 30+ years of experience. Covers all regions of France.
 - [Budget-Maison.com](https://budget-maison.com/) - Quick French construction budget estimator.
-- [Calculette ForumConstruire](https://www.forumconstruire.com/calculatrices/) - Collection of French construction calculators (PTZ, surface, materials).
 - [HomeAdvisor True Cost Guide](https://www.homeadvisor.com/cost/) - U.S.-focused home improvement and construction cost data.
 - [RSMeans](https://www.rsmeans.com/) - Industry-standard construction cost data and estimation tools (U.S. and Canada).
 - [Build It Calculator](https://www.self-build.co.uk/calculator/) - UK self-build cost calculator.
