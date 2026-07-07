@@ -85,6 +85,7 @@
 
 ### Analytics Platforms
 
+- [AssessorSearch](https://assessorsearch.com/) - Search U.S. property records by address, APN, parcel number, or owner name, with assessor data, tax records, deeds, permits, and county-source links.
 - [HouseCanary](https://www.housecanary.com/) - Provides real estate data and analytics, including home valuation models and market forecasting.
 - [CompStak](https://www.compstak.com/) - Offers crowdsourced commercial real estate data, focusing on lease and sales comparables.
 - [Reonomy](https://www.reonomy.com/) - Provides detailed commercial real estate data and analytics, including property records and ownership information.
