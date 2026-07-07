@@ -1,11 +1,11 @@
 # Config for the lychee link checker (see .github/workflows/link-check.yml).
 #
-# 403 is accepted alongside the usual success/redirect codes because several
-# legitimate vendor sites in this list front themselves with bot-protection
-# (Cloudflare, etc.) that returns 403 to non-browser requests while the site
-# is genuinely live. Treating that as a hard failure produced false positives
-# during manual review.
-accept = [200, 201, 202, 203, 204, 206, 301, 302, 303, 307, 308, 403, 429]
+# 403 and 405 are accepted alongside the usual success/redirect codes because
+# several legitimate high-traffic sites in this list (e.g. redfin.com behind
+# CloudFront) reject non-browser requests with these codes while genuinely
+# live. Treating that as a hard failure produced false positives during
+# manual review.
+accept = [200, 201, 202, 203, 204, 206, 301, 302, 303, 307, 308, 403, 405, 429]
 timeout = 20
 retry_wait_time = 5
 max_retries = 2
