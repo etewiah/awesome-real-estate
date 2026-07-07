@@ -142,6 +142,7 @@
 - [HouseCanary Core API](https://www.housecanary.com/pricing) - Access to the core API, CanaryAI, and AVM reports for advanced property valuation modeling.
 - [RentCast API](https://www.rentcast.io/api) - Scalable API for rental estimates, market data, and portfolio monitoring.
 - [RealEstateAPI.com](http://www.realestateapi.com/) - API designed for PropTech solutions with unlimited property data and integrated machine-learning capabilities.
+- [Staying API](https://stayingapi.com) - Real-time Airbnb and short-term rental listing data: photos, reviews, host, pricing, and 12-month availability by listing ID, URL, or address, or search by location, dates, and price. REST + MCP, free tier.
 
 ### Lead Page Builders
 
