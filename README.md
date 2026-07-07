@@ -35,7 +35,7 @@
 
 ## Accelerators / Venture Funds
 
-- [Blackprint](http://www.blackprintbooster.vc) - German-based proptech accelerator.
+- [Blackprint](https://blackprintbooster.de) - German-based proptech accelerator.
 - [MetaProp](http://www.metaprop.org/) - New York-based program for early-stage companies.
 - [Moderne Ventures](https://www.moderneventures.com/) - Early-stage venture fund focused on technology companies.
 - [NARReach](http://www.narreach.com/) - US National Association of Realtors backed accelerator.
@@ -61,7 +61,7 @@
 ### Blogs
 
 - [GeekEstateBlog](http://geekestateblog.com/) - Insightful articles with a focus on technology.
-- [Notorious Rob](http://www.notorious-rob.com/) - Highly opinionated look at industry trends.
+- [Notorious Rob](https://www.notoriousrob.com/) - Highly opinionated look at industry trends.
 - [The Real Deal](https://therealdeal.com/) - Provides up-to-date news on the real estate market, focusing on New York, South Florida, and Los Angeles.
 - [RISMedia](https://blog.rismedia.com/) - A reputable source covering real estate news and trends, with educational articles for new agents wanting to expand their knowledge.
 - [Tom Ferry's Real Estate Blog](https://blog.tomferry.com/) - Gain insights from Tom Ferry, a renowned real estate coach who shares valuable tips on sales, marketing, and mindset to help you succeed in your real estate career.
@@ -82,9 +82,8 @@
 - [Chrisman Commentary - Daily Mortgage News](https://open.spotify.com/show/3XsABmcuSD7vdYjfE8QlyO) - A daily snapshot of what is happening in the mortgage industry and with mortgage rates.
 - [BiggerPockets Real Estate Podcast](https://www.biggerpockets.com/podcast) - Offers insights and advice on real estate investing and market trends.
 - [Real Estate The Ramsey Way](https://www.ramseysolutions.com/shows/real-estate-the-ramsey-way) - Learn from Dave Ramsey and his team of experts how to build wealth through buying, selling, and investing in real estate the Ramsey way.
-- [Real Estate Rockstars](https://hibandigital.com/shows/) - Hosted by Pat Hiban, featuring interviews with top real estate professionals sharing their strategies and success stories.
+- [Real Estate Rockstars](https://realestaterockstarsnetwork.com/category/podcast/) - Interviews with top real estate professionals sharing their strategies and success stories.
 - [The Tom Ferry Podcast Experience](https://www.tomferry.com/podcast/) - Hosted by Tom Ferry, this podcast provides actionable advice on sales, marketing, and personal development for real estate professionals.
-- [Real Estate Today Radio](https://www.realtor.com/news/real-estate-news/real-estate-today-radio/) - Produced by the National Association of Realtors, this podcast provides the latest news and information on the real estate market for both professionals and consumers.
 
 ### Marketplaces
 
@@ -174,7 +173,6 @@
 
 ### APIs
 
-- [Onboard Informatics Community API](https://developer.onboard-apis.com/products/Community-API) - Provides access to a rich set of local information.
 - [Zillapi](https://zillapi.com) - Real-time Zillow property data API: Zestimates, rent estimates, tax records, price history, and listing search. Also an MCP server for AI agents. OAuth 2.1, free tier.
 - [Rets Rabbit](http://www.retsrabbit.com) - Import real estate listings and photos from RETS or ListHub.
 - [Zoo Property](http://www.zooproperty.com/api/) - RESTful API to manage property listings.
