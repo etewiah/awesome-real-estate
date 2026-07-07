@@ -18,6 +18,7 @@
   - [Visualization Tools](#visualization-tools)
 - [Software](#software)
   - [APIs](#apis)
+  - [Compliance & Permit Tools](#compliance--permit-tools)
   - [Lead Page Builders](#lead-page-builders)
   - [Website Providers](#website-providers)
 - [License](#license)
@@ -147,6 +148,10 @@
 - [RentCast API](https://www.rentcast.io/api) - Scalable API for rental estimates, market data, and portfolio monitoring.
 - [RealEstateAPI.com](http://www.realestateapi.com/) - API designed for PropTech solutions with unlimited property data and integrated machine-learning capabilities.
 - [Staying API](https://stayingapi.com) - Real-time Airbnb and short-term rental listing data: photos, reviews, host, pricing, and 12-month availability by listing ID, URL, or address, or search by location, dates, and price. REST + MCP, free tier.
+
+### Compliance & Permit Tools
+
+- [Van Permit Audit](https://www.vanpermitaudit.com) - AI compliance checker for Vancouver, Canada building permits — validates permit PDFs against City of Vancouver bylaws and returns a structured pass/fail report.
 
 ### Lead Page Builders
 
