@@ -1,8 +1,10 @@
-# Awesome Real Estate [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Real Estate [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of awesome real estate resources and projects.
 > For AI resources related to real estate, have a look at this site: [The Most Comprehensive List of Artificial Intelligence Resources for Real Estate](https://www.propertyaitools.com)
 
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 ## Contents
 
 - [Accelerators / Venture Funds](#accelerators--venture-funds)
@@ -15,16 +17,21 @@
   - [Analytics Platforms](#analytics-platforms)
   - [CRMs](#crms)
   - [Educational Resources](#educational-resources)
+  - [Gamification](#gamification)
   - [Visualization Tools](#visualization-tools)
+  - [Foundational Geospatial & Urban Data](#foundational-geospatial--urban-data)
+  - [Authoritative Research & Publications](#authoritative-research--publications)
 - [Cost Estimation & Calculators](#cost-estimation--calculators)
 - [Software](#software)
-  - [APIs](#apis)
   - [AI & Virtual Assistants](#ai--virtual-assistants)
   - [Inspection & Reporting](#inspection--reporting)
+  - [APIs](#apis)
   - [Compliance & Permit Tools](#compliance--permit-tools)
   - [Lead Page Builders](#lead-page-builders)
   - [Website Providers](#website-providers)
-- [License](#license)
+  - [Marketing](#marketing)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Accelerators / Venture Funds
 
@@ -56,7 +63,7 @@
 - [GeekEstateBlog](http://geekestateblog.com/) - Insightful articles with a focus on technology.
 - [Notorious Rob](http://www.notorious-rob.com/) - Highly opinionated look at industry trends.
 - [The Real Deal](https://therealdeal.com/) - Provides up-to-date news on the real estate market, focusing on New York, South Florida, and Los Angeles.
-- [RISMedia](https://blog.rismedia.com/) - RISMedia is a reputable source covering real estate news and trends. It also provides educational articles beneficial for new agents wanting to expand their knowledge.
+- [RISMedia](https://blog.rismedia.com/) - A reputable source covering real estate news and trends, with educational articles for new agents wanting to expand their knowledge.
 - [Tom Ferry's Real Estate Blog](https://blog.tomferry.com/) - Gain insights from Tom Ferry, a renowned real estate coach who shares valuable tips on sales, marketing, and mindset to help you succeed in your real estate career.
 - [The Close](https://theclose.com/) - Offers actionable real estate strategies, marketing tips, and insights to help agents and brokers succeed in their careers.
 - [HousingWire](https://www.housingwire.com/) - Provides comprehensive news coverage on the U.S. housing market, mortgage rates, and real estate trends.
@@ -128,10 +135,10 @@
 - [Matterport](https://www.matterport.com/) - A 3D visualization platform for real estate professionals to create immersive virtual tours of properties.
 - [Cubicasa](https://www.cubicasa.com/) - A fast and accurate floor plan generation tool for real estate listings.
 - [iGUIDE](https://goiguide.com/) - Provides interactive 3D tours and floor plans for real estate listings.
-- [AI Virtual Staging](https://www.aivirtualstaging.net/) - AI powered Virtual Staging that preserves the original room layout and dimensions
-- [Pedra](https://pedra.ai) - AI virtual staging, photo enhancement, renovation renders, and property videos for real-estate listings
+- [AI Virtual Staging](https://www.aivirtualstaging.net/) - AI powered Virtual Staging that preserves the original room layout and dimensions.
+- [Pedra](https://pedra.ai) - AI virtual staging, photo enhancement, renovation renders, and property videos for real-estate listings.
 - [Ritn3D](https://www.ritn3d.com/) - AI floor plan to 3D model converter. Upload a PDF, JPG, or PNG floor plan and get a walkable 3D interior model in under 2 minutes. Free tier, native iOS and Android apps, web app, and share-via-browser-link with no install for the recipient.
-- [EquitySight](https://equitysight.app/) - Free Australian property investment platform with tools to help buyers and investors make smarter decisions
+- [EquitySight](https://equitysight.app/) - Free Australian property investment platform with tools to help buyers and investors make smarter decisions.
 
 ### Foundational Geospatial & Urban Data
 
@@ -201,7 +208,3 @@
 ### Marketing
 
 - [PropertySquares](https://propertysquares.com/) - A newsletter platform for property curators to create and share listings with commentary.
-
-## License
-
-[CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
