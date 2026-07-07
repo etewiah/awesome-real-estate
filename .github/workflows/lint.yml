@@ -1,0 +1,33 @@
+name: Lint
+
+on:
+  pull_request:
+  push:
+    branches: [master]
+
+jobs:
+  awesome-lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Run awesome-lint
+        run: npx --yes awesome-lint README.md
+
+  toc:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Regenerate Table of Contents
+        run: npx --yes doctoc --github --title "## Contents" README.md
+      - name: Fail if Contents is out of date
+        run: |
+          if ! git diff --exit-code README.md; then
+            echo "::error::Table of Contents is out of date. Run 'npx doctoc --github --title \"## Contents\" README.md' locally and commit the result."
+            exit 1
+          fi
