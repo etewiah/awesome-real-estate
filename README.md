@@ -41,6 +41,7 @@
 - [NARReach](http://www.narreach.com/) - US National Association of Realtors backed accelerator.
 - [Pilabs](http://pilabs.co.uk/) - European property tech venture capital firm.
 - [Fifth Wall](https://fifthwall.com/) - A venture capital firm focused on technology solutions for the global real estate industry.
+- [AccessFundsNow](https://accessfundsnow.com/) - Real estate funding consulting for investors, including earnest money, fix-and-flip, and acquisition loans.
 
 ## GitHub Projects
 
@@ -108,6 +109,7 @@
 - [Japan Neighborhoods](https://japanneighborhoods.com) - Free neighborhood-level crime, safety, and property price data for 5,078 Tokyo neighborhoods. English-language government data for expat homebuyers and investors. Includes interactive crime map, safety grading (A+ to F), and REST API.
 - [GeoInfomatic — Living Zone Accessibility (Korea)](https://geoinfomatic.pythonanywhere.com) - Isochrone-based neighborhood accessibility analyzer for South Korea. Pick any address, see 10/20/30/45-min walking or transit reachability with 8 facility types overlaid. 100-point composite score with AI summary. No real-estate listings — pure accessibility analysis for moving / due-diligence decisions. Freemium.
 - [Amortio](https://www.amortio.com/) - Free mortgage calculators using Freddie Mac PMMS rate data, with PITI breakdown, FHA/VA/USDA loan eligibility, and refinance break-even analysis.
+- [AccessFundsNow](https://accessfundsnow.com/) - Real estate funding consulting for investors, including earnest money, fix-and-flip, and acquisition loans.
 
 ### CRMs
 
