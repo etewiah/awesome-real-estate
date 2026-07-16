@@ -47,6 +47,7 @@
 - [EasyPropertyListings](https://github.com/easypropertylistings/Easy-Property-Listings) - WordPress plugin for property listings.
 - [PropertyWebBuilder](https://github.com/etewiah/property_web_builder) - Powerful, quick property listings website builder.
 - [HomeHarvest](https://github.com/Bunsly/HomeHarvest) - Python package for scraping real estate property data.
+- [Visura API](https://github.com/zornade/visura-api) - AGPL-3.0 FastAPI + Playwright service that retrieves Italian cadastral registry (land registry ownership and property records) documents via automated browser interaction, exposed as a REST API. Powers [Zornade](https://app.zornade.com), which combines cadastral, hydrogeological risk and price data for 85M Italian parcels.
 - [Real Estate Data Scraper](https://github.com/oxylabs/scraping-real-estate-data-with-python) - A Python-based tool for scraping real estate property data from various listing websites.
 - [real-estate-calculations](https://github.com/biegehydra/real-estate-calculations) - TypeScript functions for evaluating rental investment performance.
 - [real-estate-roi-calculator](https://github.com/Alirazahaider/real-estate-roi-calculator) - TypeScript utility for computing rental investment metrics.
