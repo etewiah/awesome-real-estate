@@ -159,6 +159,7 @@
 - [Budget-Maison.com](https://budget-maison.com/) - Quick French construction budget estimator.
 - [HomeAdvisor True Cost Guide](https://www.homeadvisor.com/cost/) - U.S.-focused home improvement and construction cost data.
 - [RSMeans](https://www.rsmeans.com/) - Industry-standard construction cost data and estimation tools (U.S. and Canada).
+- [rentflow-calculators](https://github.com/coinsayfasi/rentflow-calculators) - Zero-dependency JS library for rental yield/cap rate, cash flow, mortgage payment, cash-on-cash return, NOI, GRM, rent increase %, and other landlord math formulas.
 - [Build It Calculator](https://www.self-build.co.uk/calculator/) - UK self-build cost calculator.
 
 ## Software
