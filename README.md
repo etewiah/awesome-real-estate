@@ -152,6 +152,7 @@
 - [PropTech Books](https://www.proptechbuzz.com/blog/proptech-books) - A compilation of essential books for understanding PropTech.
 - [Prestyj Lead Response & AI Sales Statistics](https://prestyj.com/data) - Open dataset (CC BY 4.0) of 58 cite-worthy statistics on speed-to-lead, real estate ISA response benchmarks, AI adoption in sales, and CPL by industry. Downloadable as CSV/JSON; each row carries its primary publisher (HBR, InsideSales, HubSpot, McKinsey, etc.) and year.
 - [Cost Segregation Benchmarks 2026](https://costsegsmart.com/research/benchmarks-2026/) - Open-data report on 260 cost segregation studies across 13 US property types. Reports median reclassification percentages, year-1 federal tax savings, and US provider pricing. CC-BY 4.0 licensed; CSV dataset available.
+- [Phuket Condo Asking-Price Snapshot](https://kvartiry-phuket.com/en/phuket-condo-prices/) - CC BY 4.0 aggregate research covering 391 exact-URL-deduplicated Phuket condo sale-listing observations from April to July 2026, with methodology, limitations, charts, and downloadable CSV/JSON; asking prices, not transactions or active inventory.
 
 ## Cost Estimation & Calculators
 
