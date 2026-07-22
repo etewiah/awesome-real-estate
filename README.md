@@ -206,3 +206,7 @@
 ### Marketing
 
 - [PropertySquares](https://propertysquares.com/) - A newsletter platform for property curators to create and share listings with commentary.
+
+
+## AI Tools
+- [Agent Skills Work](https://agentskills.work/) - A no-code toolkit for real estate agents and business owners.
