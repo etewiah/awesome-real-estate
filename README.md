@@ -55,6 +55,7 @@
 - [Real Estate Price Prediction Project](https://github.com/shanuhalli/Project-Real-Estate-Price-Prediction) - An end-to-end data science project for real estate price prediction.
 - [Redfin Scraper](https://github.com/Freshactors/freshactors-scrapers) - HTTP/JSON scraper for Redfin US real-estate listings and sold data (by city/ZIP), with Python/Node/cURL examples and a daily-monitored hosted Apify Actor.
 - [BailleurVerif](https://github.com/Creariax5/bailleurverif) - Open dataset of non-compliant French rental listings (7 cities, ~210 listings/wave, 11 git-timestamped temporal waves, 57.6% cross-wave persistence, daily crawl). MIT-licensed Python pipeline + Etalab v2.0 dataset on data.gouv.fr for housing market research and regulatory compliance analytics.
+- [Thailand Housing Prices](https://github.com/kesar/thailand-housing-prices) - Open dataset of Thailand and Bangkok residential property price indexes (Bank of Thailand RPPI, monthly since 2011; BIS/FRED, quarterly since 1991) as clean CSVs, refreshed monthly by [BaanScope](https://baanscope.com), a free tracker of every off-plan project from Thailand's nine largest developers.
 
 ## Resources
 
