@@ -120,6 +120,7 @@
 - [Lone Wolf](https://www.lwolf.com/) - A comprehensive real estate platform with CRM, transaction management, and accounting tools.
 
 ### Educational Resources
+- [US Real Estate Exam Data](https://github.com/roykim26/us-real-estate-exam-data) - Comprehensive dataset of US real estate licensing exam requirements, fees, and pass rates across all 50 states
 
 - [BiggerPockets](https://www.biggerpockets.com/) - A leading platform for real estate investors, providing education, podcasts, and networking.
 - [Masterclass: Real Estate](https://www.masterclass.com/) - Professional real estate courses from industry experts.
