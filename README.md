@@ -160,6 +160,7 @@
 - [HomeAdvisor True Cost Guide](https://www.homeadvisor.com/cost/) - U.S.-focused home improvement and construction cost data.
 - [RSMeans](https://www.rsmeans.com/) - Industry-standard construction cost data and estimation tools (U.S. and Canada).
 - [Build It Calculator](https://www.self-build.co.uk/calculator/) - UK self-build cost calculator.
+- [Concrete Calculator Hub](https://concreteestimatorhub.com/) - Free concrete volume, slab, bag count, ready-mix, and cost calculators for home improvement and small construction planning.
 
 ## Software
 
