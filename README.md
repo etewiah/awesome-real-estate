@@ -173,6 +173,7 @@
 
 ### APIs
 
+- [Estate](https://estate.sh/developers) - Read-only API for current Georgia property listings, locations, prices, and exchange rates.
 - [Zillapi](https://zillapi.com) - Real-time Zillow property data API: Zestimates, rent estimates, tax records, price history, and listing search. Also an MCP server for AI agents. OAuth 2.1, free tier.
 - [Rets Rabbit](http://www.retsrabbit.com) - Import real estate listings and photos from RETS or ListHub.
 - [Zoo Property](http://www.zooproperty.com/api/) - RESTful API to manage property listings.
