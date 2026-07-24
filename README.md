@@ -36,21 +36,21 @@
 ## Accelerators / Venture Funds
 
 - [Blackprint](http://blackprintbooster.de) - German-based proptech accelerator.
-- [MetaProp](http://www.metaprop.org/) - New York-based program for early-stage companies.
+- [MetaProp](https://www.metaprop.com/) - New York-based program for early-stage companies.
 - [Moderne Ventures](https://www.moderneventures.com/) - Early-stage venture fund focused on technology companies.
-- [NARReach](http://www.narreach.com/) - US National Association of Realtors backed accelerator.
-- [Pilabs](http://pilabs.co.uk/) - European property tech venture capital firm.
-- [Fifth Wall](https://fifthwall.com/) - A venture capital firm focused on technology solutions for the global real estate industry.
+- [NARReach](https://www.nar-reach.com/) - US National Association of Realtors backed accelerator.
+- [Pilabs](https://pilabs.vc/) - European property tech venture capital firm.
+- [Fifth Wall](https://www.fifthwall.com/) - A venture capital firm focused on technology solutions for the global real estate industry.
 
 ## GitHub Projects
 
 - [EasyPropertyListings](https://github.com/easypropertylistings/Easy-Property-Listings) - WordPress plugin for property listings.
 - [PropertyWebBuilder](https://github.com/etewiah/property_web_builder) - Powerful, quick property listings website builder.
-- [HomeHarvest](https://github.com/Bunsly/HomeHarvest) - Python package for scraping real estate property data.
+- [HomeHarvest](https://github.com/ZacharyHampton/HomeHarvest) - Python package for scraping real estate property data.
 - [Real Estate Data Scraper](https://github.com/oxylabs/scraping-real-estate-data-with-python) - A Python-based tool for scraping real estate property data from various listing websites.
 - [real-estate-calculations](https://github.com/biegehydra/real-estate-calculations) - TypeScript functions for evaluating rental investment performance.
 - [real-estate-roi-calculator](https://github.com/Alirazahaider/real-estate-roi-calculator) - TypeScript utility for computing rental investment metrics.
-- [Real-Estate-Financial-Analytics-Dashboard](https://github.com/YSayaovong/Real-Estate-Financial-Analytics-Dashboard) - A Power BI and PostgreSQL dashboard for long-term rental property financial analysis.
+- [Individual-Rental-Portfolio-Analytics](https://github.com/YSayaovong/Individual-Rental-Portfolio-Analytics) - A Power BI and PostgreSQL dashboard for long-term rental property financial analysis.
 - [Investment Portfolio Optimization](https://github.com/MarionJelimo/real-estate-investment-portfolio-optimization-using-time-series) - A project for time series forecasting of property values.
 - [Real Estate Price Prediction Project](https://github.com/shanuhalli/Project-Real-Estate-Price-Prediction) - An end-to-end data science project for real estate price prediction.
 - [Redfin Scraper](https://github.com/Freshactors/freshactors-scrapers) - HTTP/JSON scraper for Redfin US real-estate listings and sold data (by city/ZIP), with Python/Node/cURL examples and a daily-monitored hosted Apify Actor.
@@ -60,7 +60,7 @@
 
 ### Blogs
 
-- [GeekEstateBlog](http://geekestateblog.com/) - Insightful articles with a focus on technology.
+- [GeekEstateBlog](https://geekestateblog.com/) - Insightful articles with a focus on technology.
 - [Notorious Rob](https://www.notoriousrob.com/) - Highly opinionated look at industry trends.
 - [The Real Deal](https://therealdeal.com/) - Provides up-to-date news on the real estate market, focusing on New York, South Florida, and Los Angeles.
 - [RISMedia](https://blog.rismedia.com/) - A reputable source covering real estate news and trends, with educational articles for new agents wanting to expand their knowledge.
@@ -72,15 +72,15 @@
 ### Events
 
 - [Inman Connect](https://www.inman.com/event/icsf17/) - Week-long real estate showcase.
-- [MIPIM](http://www.mipim.com/) - Leading global real estate event held annually over 4 days in Cannes, France.
+- [MIPIM](https://www.mipim.com/) - Leading global real estate event held annually over 4 days in Cannes, France.
 - [PropTech Summit](https://proptechsummit.com/) - An annual event showcasing the latest technology innovations in real estate.
 
 ### Podcasts
 
-- [Listing Bits](http://listingbits.libsyn.com) - Real estate tech talk with a focus on the US.
+- [Listing Bits](https://listingbits.libsyn.com/) - Real estate tech talk with a focus on the US.
 - [Super Agents Live](https://player.fm/series/super-agents-live-real-estate-coaching) - Leading podcast for agents with insights on how to improve your game.
 - [Chrisman Commentary - Daily Mortgage News](https://open.spotify.com/show/3XsABmcuSD7vdYjfE8QlyO) - A daily snapshot of what is happening in the mortgage industry and with mortgage rates.
-- [BiggerPockets Real Estate Podcast](https://www.biggerpockets.com/podcast) - Offers insights and advice on real estate investing and market trends.
+- [BiggerPockets Real Estate Podcast](https://www.biggerpockets.com/podcasts/real-estate) - Offers insights and advice on real estate investing and market trends.
 - [Real Estate The Ramsey Way](https://www.ramseysolutions.com/shows/real-estate-the-ramsey-way) - Learn from Dave Ramsey and his team of experts how to build wealth through buying, selling, and investing in real estate the Ramsey way.
 - [Real Estate Rockstars](https://realestaterockstarsnetwork.com/category/podcast/) - Interviews with top real estate professionals sharing their strategies and success stories.
 - [The Tom Ferry Podcast Experience](https://www.tomferry.com/podcast/) - Hosted by Tom Ferry, this podcast provides actionable advice on sales, marketing, and personal development for real estate professionals.
@@ -98,7 +98,7 @@
 
 - [AssessorSearch](https://assessorsearch.com/) - Search U.S. property records by address, APN, parcel number, or owner name, with assessor data, tax records, deeds, permits, and county-source links.
 - [HouseCanary](https://www.housecanary.com/) - Provides real estate data and analytics, including home valuation models and market forecasting.
-- [CompStak](https://www.compstak.com/) - Offers crowdsourced commercial real estate data, focusing on lease and sales comparables.
+- [CompStak](https://compstak.com/) - Offers crowdsourced commercial real estate data, focusing on lease and sales comparables.
 - [Reonomy](https://www.reonomy.com/) - Provides detailed commercial real estate data and analytics, including property records and ownership information.
 - [HomesToCompare](https://homestocompare.com/) - A tool for side-by-side property comparison with AI-powered insights.
 - [WohnRadar Schweiz](https://wohnradarschweiz.ch/) - Monitors official Swiss building-permit notices (Baugesuche) by address and alerts owners/neighbors by email before the public objection deadline expires.
@@ -113,9 +113,9 @@
 
 - [Follow Up Boss](https://www.followupboss.com/) - A CRM for real estate teams to streamline lead management and follow-up processes.
 - [Realvolve](https://www.realvolve.com/) - A CRM combining workflow automation, contact management, and transaction management for real estate agents.
-- [Zoho CRM for Real Estate](https://www.zoho.com/crm/solutions/real-estate/) - A customizable CRM solution tailored for real estate professionals, offering automation and client management features.
-- [LionDesk](https://www.liondesk.com/) - A CRM platform designed for real estate professionals, offering features like automated follow-ups, email and text marketing, and transaction management.
-- [Wise Agent](https://www.wiseagent.com/) - Provides a comprehensive suite of tools including contact management, transaction tracking, and marketing automation tailored for real estate agents.
+- [Zoho CRM for Real Estate](https://www.zoho.com/crm/verticals/real-estate/) - A customizable CRM solution tailored for real estate professionals, offering automation and client management features.
+- [LionDesk](https://crm.liondesk.com/) - A CRM platform designed for real estate professionals, offering features like automated follow-ups, email and text marketing, and transaction management.
+- [Wise Agent](https://wiseagent.com/) - Provides a comprehensive suite of tools including contact management, transaction tracking, and marketing automation tailored for real estate agents.
 - [Top Producer](https://www.topproducer.com/) - A CRM solution that helps real estate professionals manage leads, contacts, and follow-ups, with integration capabilities for various lead sources.
 - [Lone Wolf](https://www.lwolf.com/) - A comprehensive real estate platform with CRM, transaction management, and accounting tools.
 
@@ -123,7 +123,7 @@
 
 - [BiggerPockets](https://www.biggerpockets.com/) - A leading platform for real estate investors, providing education, podcasts, and networking.
 - [Masterclass: Real Estate](https://www.masterclass.com/) - Professional real estate courses from industry experts.
-- [Udemy Real Estate Courses](https://www.udemy.com/topic/real-estate/) - Offers a variety of courses covering real estate investing, property management, and market analysis.
+- [Udemy Real Estate Courses](https://www.udemy.com/topic/real-estate-fundamentals/) - Offers a variety of courses covering real estate investing, property management, and market analysis.
 
 ### Gamification
 
@@ -131,8 +131,8 @@
 
 ### Visualization Tools
 
-- [Matterport](https://www.matterport.com/) - A 3D visualization platform for real estate professionals to create immersive virtual tours of properties.
-- [Cubicasa](https://www.cubicasa.com/) - A fast and accurate floor plan generation tool for real estate listings.
+- [Matterport](https://matterport.com/) - A 3D visualization platform for real estate professionals to create immersive virtual tours of properties.
+- [Cubicasa](https://www.cubi.casa/) - A fast and accurate floor plan generation tool for real estate listings.
 - [iGUIDE](https://goiguide.com/) - Provides interactive 3D tours and floor plans for real estate listings.
 - [AI Virtual Staging](https://www.aivirtualstaging.net/) - AI powered Virtual Staging that preserves the original room layout and dimensions.
 - [Pedra](https://pedra.ai) - AI virtual staging, photo enhancement, renovation renders, and property videos for real-estate listings.
@@ -159,7 +159,7 @@
 - [Budget-Maison.com](https://budget-maison.com/) - Quick French construction budget estimator.
 - [HomeAdvisor True Cost Guide](https://www.homeadvisor.com/cost/) - U.S.-focused home improvement and construction cost data.
 - [RSMeans](https://www.rsmeans.com/) - Industry-standard construction cost data and estimation tools (U.S. and Canada).
-- [Build It Calculator](https://www.self-build.co.uk/calculator/) - UK self-build cost calculator.
+- [Build It Calculator](https://www.self-build.co.uk/build-cost-calculator/) - UK self-build cost calculator.
 
 ## Software
 
@@ -176,12 +176,12 @@
 - [Zillapi](https://zillapi.com) - Real-time Zillow property data API: Zestimates, rent estimates, tax records, price history, and listing search. Also an MCP server for AI agents. OAuth 2.1, free tier.
 - [Rets Rabbit](http://www.retsrabbit.com) - Import real estate listings and photos from RETS or ListHub.
 - [Zoo Property](http://www.zooproperty.com/api/) - RESTful API to manage property listings.
-- [ATTOM Data Solutions API](https://www.attomdata.com/solutions/property-data-api/) - Offers comprehensive property data, including ownership, mortgage, and neighborhood information.
+- [ATTOM Data Solutions API](https://www.attomdata.com/solutions/delivery/property-data-api/) - Offers comprehensive property data, including ownership, mortgage, and neighborhood information.
 - [Gridics Zoning Data API](https://gridics.com/zoning-data-api/) - Provides parcel-level zoning, development capacity, and setback data.
-- [Zoneomics API](https://www.zoneomics.com/pricing/api) - Offers scalable and flexible API options for integrating zoning data.
+- [Zoneomics API](https://www.zoneomics.com/pricing/zoning-data-apis) - Offers scalable and flexible API options for integrating zoning data.
 - [HouseCanary Core API](https://www.housecanary.com/pricing) - Access to the core API, CanaryAI, and AVM reports for advanced property valuation modeling.
 - [RentCast API](https://www.rentcast.io/api) - Scalable API for rental estimates, market data, and portfolio monitoring.
-- [RealEstateAPI.com](http://www.realestateapi.com/) - API designed for PropTech solutions with unlimited property data and integrated machine-learning capabilities.
+- [RealEstateAPI.com](https://www.realestateapi.com/) - API designed for PropTech solutions with unlimited property data and integrated machine-learning capabilities.
 - [Staying API](https://stayingapi.com) - Real-time Airbnb and short-term rental listing data: photos, reviews, host, pricing, and 12-month availability by listing ID, URL, or address, or search by location, dates, and price. REST + MCP, free tier.
 - [UrbanKit Studio Parcel API](https://urbankitstudio.com/developers) - Address→owner/APN/mailing enrichment plus a verified ArcGIS REST endpoint directory for 155 US counties (free tier, $19/mo developer API, MCP server + npm SDK).
 - [Superhighway](https://superhighway.walls.sh) - Web search, news, scrape, and research API for AI agents. Useful for building real estate research agents that pull listings, scrape property pages, and gather neighborhood context. See the [real estate research agent guide](https://superhighway.walls.sh/guides/real-estate-agent).
@@ -190,13 +190,12 @@
 
 ### Compliance & Permit Tools
 
-- [Van Permit Audit](https://www.vanpermitaudit.com) - AI compliance checker for Vancouver, Canada building permits — validates permit PDFs against City of Vancouver bylaws and returns a structured pass/fail report.
+- [Van Permit Audit](https://www.vanpermitaudit.ca/) - AI compliance checker for Vancouver, Canada building permits — validates permit PDFs against City of Vancouver bylaws and returns a structured pass/fail report.
 
 ### Lead Page Builders
 
 - [SinglePropertyPages](https://singlepropertypages.com) - Affordable and easy-to-use lead page builder.
-- [Kunversion](https://kunversion.com) - Lead generation platform.
-- [Placester](https://www.placester.com/) - A platform that offers website building and lead generation tools specifically designed for real estate professionals.
+- [Placester](https://placester.com/) - A platform that offers website building and lead generation tools specifically designed for real estate professionals.
 
 ### Website Providers
 
