@@ -124,6 +124,7 @@
 - [BiggerPockets](https://www.biggerpockets.com/) - A leading platform for real estate investors, providing education, podcasts, and networking.
 - [Masterclass: Real Estate](https://www.masterclass.com/) - Professional real estate courses from industry experts.
 - [Udemy Real Estate Courses](https://www.udemy.com/topic/real-estate-fundamentals/) - Offers a variety of courses covering real estate investing, property management, and market analysis.
+- [LicensingRequirements.com](https://licensingrequirements.com/real-estate) - State-by-state real estate license requirements covering education hours, exam fees, application costs, reciprocity, and renewal for salesperson and broker paths. Verified against official state licensing boards.
 
 ### Gamification
 
