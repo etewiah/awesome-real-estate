@@ -14,6 +14,7 @@
   - [Events](#events)
   - [Podcasts](#podcasts)
   - [Marketplaces](#marketplaces)
+  - [Directories](#directories)
   - [Analytics Platforms](#analytics-platforms)
   - [CRMs](#crms)
   - [Educational Resources](#educational-resources)
@@ -93,6 +94,10 @@
 - [Redfin](https://www.redfin.com/) - A technology-powered real estate brokerage offering comprehensive property listings, market insights, and professional agent services.
 - [Trulia](https://www.trulia.com/) - Provides detailed property listings along with neighborhood insights, crime maps, and school information to assist buyers and renters.
 - [Homes.com](https://www.homes.com/) - Offers a vast database of homes for sale and rent, along with tools for property valuation and neighborhood research.
+
+### Directories
+
+- [Gipety](https://gipety.com) - A sourced, dated directory of UK real-estate software providers, covering website builders, CRMs, listing portals, valuation tools, and media platforms.
 
 ### Analytics Platforms
 
