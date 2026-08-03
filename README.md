@@ -127,6 +127,8 @@
 ### Educational Resources
 
 - [BiggerPockets](https://www.biggerpockets.com/) - A leading platform for real estate investors, providing education, podcasts, and networking.
+
+- [SAA Homes — Northern Colorado Real Estate](https://saahomes.com/) - Free buyer and seller guides, CHFA down payment assistance breakdowns, area guides for 19+ Front Range communities, and monthly MLS-sourced market reports for Fort Collins, Loveland, Windsor, and Greeley.
 - [Masterclass: Real Estate](https://www.masterclass.com/) - Professional real estate courses from industry experts.
 - [Udemy Real Estate Courses](https://www.udemy.com/topic/real-estate-fundamentals/) - Offers a variety of courses covering real estate investing, property management, and market analysis.
 
