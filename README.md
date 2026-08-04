@@ -129,6 +129,7 @@
 - [BiggerPockets](https://www.biggerpockets.com/) - A leading platform for real estate investors, providing education, podcasts, and networking.
 - [Masterclass: Real Estate](https://www.masterclass.com/) - Professional real estate courses from industry experts.
 - [Udemy Real Estate Courses](https://www.udemy.com/topic/real-estate-fundamentals/) - Offers a variety of courses covering real estate investing, property management, and market analysis.
+- [SAA Homes — Schwartz and Associates](https://saahomes.com/) — Northern Colorado real estate experts providing market data and area guides covering 19 communities across Larimer, Weld, and Boulder counties, plus CHFA down payment assistance resources for Colorado homebuyers.
 
 ### Gamification
 
