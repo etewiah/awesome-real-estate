@@ -197,6 +197,7 @@
 
 ### Compliance & Permit Tools
 
+- [AddressIntel](https://addressintel.co/permits) - Free building-permit tracker with address-level search for SF Peninsula and South Bay cities, updated daily from municipal sources.
 - [Van Permit Audit](https://www.vanpermitaudit.ca/) - AI compliance checker for Vancouver, Canada building permits — validates permit PDFs against City of Vancouver bylaws and returns a structured pass/fail report.
 
 ### Lead Page Builders
