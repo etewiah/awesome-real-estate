@@ -61,6 +61,7 @@
 
 ### Blogs
 
+- [SAA Homes — Northern Colorado Real Estate](https://saahomes.com/northern-colorado-areas/) — Community guides and market data for Fort Collins, Loveland, Windsor, Greeley, and 15+ Northern Colorado cities. Includes CHFA down payment assistance resources.
 - [GeekEstateBlog](https://geekestateblog.com/) - Insightful articles with a focus on technology.
 - [Notorious Rob](https://www.notoriousrob.com/) - Highly opinionated look at industry trends.
 - [The Real Deal](https://therealdeal.com/) - Provides up-to-date news on the real estate market, focusing on New York, South Florida, and Los Angeles.
