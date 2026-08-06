@@ -172,6 +172,7 @@
 ### AI & Virtual Assistants
 
 - [AnveVoice](https://anvevoice.app) - AI voice agent for real estate websites that qualifies leads, schedules property showings, answers listing questions, and talks to visitors in 50+ languages.
+- [Workforce Wave](https://www.workforcewave.com/) - AI voice receptionist for real estate offices that answers calls 24/7, books property showings and appointments, captures leads, and covers after-hours calls.
 
 ### Inspection & Reporting
 
