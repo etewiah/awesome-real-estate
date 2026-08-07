@@ -143,6 +143,7 @@
 - [Pedra](https://pedra.ai) - AI virtual staging, photo enhancement, renovation renders, and property videos for real-estate listings.
 - [Ritn3D](https://www.ritn3d.com/) - AI floor plan to 3D model converter. Upload a PDF, JPG, or PNG floor plan and get a walkable 3D interior model in under 2 minutes. Free tier, native iOS and Android apps, web app, and share-via-browser-link with no install for the recipient.
 - [EquitySight](https://equitysight.app/) - Free Australian property investment platform with tools to help buyers and investors make smarter decisions.
+- [voxelyo](https://voxelyo.com) - AI photo enhancement subscription for Airbnb, Vrbo, and real estate listing photos, with denoising, sharpening, upscaling, and color correction on a flat unlimited plan.
 
 ### Foundational Geospatial & Urban Data
 
