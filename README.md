@@ -160,6 +160,7 @@
 - [Phuket Condo Asking-Price Snapshot](https://kvartiry-phuket.com/en/phuket-condo-prices/) - CC BY 4.0 aggregate research covering 391 exact-URL-deduplicated Phuket condo sale-listing observations from April to July 2026, with methodology, limitations, charts, and downloadable CSV/JSON; asking prices, not transactions or active inventory.
 
 ## Cost Estimation & Calculators
+- [Build Quantities](https://buildquantities.com/) - Free construction quantity calculators for concrete, gravel, asphalt, blocks, and other materials with metric and imperial inputs.
 
 - [Simulateur Prix Construction Maison](https://simulateur-prix-construction-maison.fr/) - Free French construction cost estimator with 36 criteria and 25 budget line items, built by a construction professional with 30+ years of experience. Covers all regions of France.
 - [Budget-Maison.com](https://budget-maison.com/) - Quick French construction budget estimator.
