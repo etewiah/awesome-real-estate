@@ -172,6 +172,7 @@
 ### AI & Virtual Assistants
 
 - [AnveVoice](https://anvevoice.app) - AI voice agent for real estate websites that qualifies leads, schedules property showings, answers listing questions, and talks to visitors in 50+ languages.
+- [marocain.investments](https://marocain.investments) - Independent AI verdict engine for Moroccan real estate covering buy, rent, and owner-side valuation, with a public MCP server so AI agents can query the graded catalogue directly.
 
 ### Inspection & Reporting
 
