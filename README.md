@@ -150,6 +150,7 @@
 - [Awesome Urban Datasets](https://github.com/urban-toolkit/awesome-urban-datasets) - Curated public datasets for urban planning.
 - [Awesome Geospatial](https://github.com/sacridini/Awesome-Geospatial) - A broad compilation of geospatial tools and resources.
 - [BC Property Check](https://bcpropertycheck.ca/) - Free parcel intelligence for British Columbia, Canada - zoning, density (Bill 44 SSMUH), riparian setbacks, ALR, BC Hydro corridors, all from open government data.
+- [Canadian Rental Address Research](https://github.com/Fink692/canadian-rental-data-sources) - Open, source-dated directory of official Canadian property, permit, tenancy, hazard, transit, and neighbourhood resources for pre-lease address research.
 
 ### Authoritative Research & Publications
 
