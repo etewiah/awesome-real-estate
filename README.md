@@ -104,6 +104,7 @@
 
 - [AssessorSearch](https://assessorsearch.com/) - Search U.S. property records by address, APN, parcel number, or owner name, with assessor data, tax records, deeds, permits, and county-source links.
 - [HouseCanary](https://www.housecanary.com/) - Provides real estate data and analytics, including home valuation models and market forecasting.
+- [Restar](https://restar.io/) - Housing market scores and 12-month price forecasts for every US state, metro, county and ZIP code, built from Zillow, Redfin, Census, BLS, FHFA and Federal Reserve data. Market pages are free with no account.
 - [CompStak](https://compstak.com/) - Offers crowdsourced commercial real estate data, focusing on lease and sales comparables.
 - [Reonomy](https://www.reonomy.com/) - Provides detailed commercial real estate data and analytics, including property records and ownership information.
 - [HomesToCompare](https://homestocompare.com/) - A tool for side-by-side property comparison with AI-powered insights.
