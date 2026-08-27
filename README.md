@@ -37,6 +37,7 @@
   - [Marketplaces](#marketplaces)
   - [Directories](#directories)
   - [Analytics Platforms](#analytics-platforms-1)
+  - [Educational Resources](#educational-resources-1)
   - [Foundational Geospatial & Urban Data](#foundational-geospatial--urban-data-1)
   - [Authoritative Research & Publications](#authoritative-research--publications-1)
   - [Cost Estimation & Calculators](#cost-estimation--calculators-1)
@@ -154,6 +155,7 @@
 ### Cost Estimation & Calculators
 
 - [AssetCalcs](https://assetcalcs.com/) - Fast, ad-free investment and tax calculators for US/UK real estate investors (DSCR, BRRRR, Cap Rate, Hard Money, and BTL).
+- [Build Quantities](https://buildquantities.com/) - Free construction quantity calculators for concrete, gravel, asphalt, blocks, and other materials with metric and imperial inputs.
 
 ### AI & Virtual Assistants
 
@@ -228,6 +230,11 @@
 - [Reonomy](https://www.reonomy.com/) - Provides detailed commercial real estate data and analytics, including property records and ownership information.
 - [Amortio](https://www.amortio.com/) - Free mortgage calculators using Freddie Mac PMMS rate data, with PITI breakdown, FHA/VA/USDA loan eligibility, and refinance break-even analysis.
 
+### Educational Resources
+
+- [SAA Homes — Northern Colorado Real Estate](https://saahomes.com/) - Free buyer and seller guides, CHFA down payment assistance breakdowns, area guides for 19+ Front Range communities, and monthly MLS-sourced market reports for Fort Collins, Loveland, Windsor, and Greeley.
+- [US Real Estate Exam Data](https://github.com/roykim26/us-real-estate-exam-data) - Comprehensive dataset of US real estate licensing exam requirements, fees, and pass rates across all 50 states.
+
 ### Foundational Geospatial & Urban Data
 
 - [BC Property Check](https://bcpropertycheck.ca/) - Free parcel intelligence for British Columbia, Canada - zoning, density (Bill 44 SSMUH), riparian setbacks, ALR, BC Hydro corridors, all from open government data.
@@ -269,6 +276,7 @@
 
 ### GitHub Projects
 
+- [Visura API](https://github.com/zornade/visura-api) - AGPL-3.0 FastAPI + Playwright service that retrieves Italian cadastral registry (land registry ownership and property records) documents via automated browser interaction, exposed as a REST API. Powers [Zornade](https://app.zornade.com), which combines cadastral, hydrogeological risk and price data for 85M Italian parcels.
 - [BailleurVerif](https://github.com/Creariax5/bailleurverif) - Open dataset of non-compliant French rental listings (7 cities, ~210 listings/wave, 11 git-timestamped temporal waves, 57.6% cross-wave persistence, daily crawl). MIT-licensed Python pipeline + Etalab v2.0 dataset on data.gouv.fr for housing market research and regulatory compliance analytics.
 
 ### Events
