@@ -26,7 +26,7 @@ A few things that keep the list useful and get your PR merged faster:
 - **Check the link is live** — not a parked domain, a 404, or something that only works after signing up.
 - **Check it isn't already listed** — search the README for the domain or name first.
 - **One line, ending with a period**, and don't just repeat the resource's name (e.g. avoid "RISMedia is a reputable source...").
-- **Put it in the right section.** If none fits, propose a new one.
+- **Put it in the right region, then the right category.** The list is organized by region first (`## North America`, `## Europe`, ...), then by category within that region (`### CRMs`, `### APIs`, ...). If the resource is tied to a specific country or market (its data, coverage, or regulations only apply there), file it under that region. If it's genuinely usable regardless of market — most generic SaaS, CRMs, meta-lists — it goes under `## Global`. If the right region or category doesn't exist yet, propose one.
 - **Disclose affiliation.** If you built or work on what you're submitting, that's welcome — just say so in the PR.
 
 CI runs [`awesome-lint`](https://github.com/sindresorhus/awesome-lint) and a link checker on every PR, and will flag most formatting issues automatically. If the Table of Contents check fails, run `npx doctoc --github --title "## Contents" README.md` locally and commit the result.
