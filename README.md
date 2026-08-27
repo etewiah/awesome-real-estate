@@ -98,6 +98,7 @@
 ### Directories
 
 - [Gipety](https://gipety.com) - A sourced, dated directory of UK real-estate software providers, covering website builders, CRMs, listing portals, valuation tools, and media platforms.
+- [Lender Questionnaire](https://lenderquestionnaire.com) - Free directory of 14,181 registered community associations in Hawaii, Nevada, Texas, and Virginia, naming the management company of record who answers a lender questionnaire or estoppel request, for the 9,824 whose register gives one. Built from each state's own public register, with the source and the date it was read on every page, and downloadable as CSV. No signup.
 
 ### Analytics Platforms
 
