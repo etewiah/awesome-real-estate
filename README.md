@@ -119,6 +119,7 @@
 
 ### CRMs
 
+- [PropOS](https://getpropos.app) - Real estate operating platform for agents covering deals, clients, commission tracking, and signable paperwork, with a public MCP server so AI assistants can work the pipeline.
 - [Follow Up Boss](https://www.followupboss.com/) - A CRM for real estate teams to streamline lead management and follow-up processes.
 - [Realvolve](https://www.realvolve.com/) - A CRM combining workflow automation, contact management, and transaction management for real estate agents.
 - [Zoho CRM for Real Estate](https://www.zoho.com/crm/verticals/real-estate/) - A customizable CRM solution tailored for real estate professionals, offering automation and client management features.
@@ -172,6 +173,7 @@
 - [HomeAdvisor True Cost Guide](https://www.homeadvisor.com/cost/) - U.S.-focused home improvement and construction cost data.
 - [RSMeans](https://www.rsmeans.com/) - Industry-standard construction cost data and estimation tools (U.S. and Canada).
 - [Build It Calculator](https://www.self-build.co.uk/build-cost-calculator/) - UK self-build cost calculator.
+- [HelloMuds Closing Cost Calculators](https://hellomuds.com/suffolk-transfer-tax-calculator/) - Free New York transfer, mansion, and Peconic Bay tax calculators for Long Island home sales, with every rate sourced and dated to the state statute or title schedule on the page.
 - [AssetCalcs](https://assetcalcs.com/) - Fast, ad-free investment and tax calculators for US/UK real estate investors (DSCR, BRRRR, Cap Rate, Hard Money, and BTL).
 
 ## Software
