@@ -33,4 +33,4 @@ CI runs [`awesome-lint`](https://github.com/sindresorhus/awesome-lint) and a lin
 
 ## Updating your Pull Request
 
-Sometimes, you may be asked to edit your Pull Request before it is included. [Here](https://github.com/RichardLitt/docs/blob/master/amending-a-commit-guide.md) is a write up on how to change a Pull Request, and the different ways you can do that.
+Sometimes, you may be asked to edit your Pull Request before it is included. [GitHub's guide to changing a commit message](https://docs.github.com/en/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/changing-a-commit-message) explains how to amend a commit before updating your Pull Request.
