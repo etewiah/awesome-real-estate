@@ -43,6 +43,7 @@
   - [Cost Estimation & Calculators](#cost-estimation--calculators-1)
   - [APIs](#apis-1)
   - [Compliance & Permit Tools](#compliance--permit-tools)
+  - [Insurance](#insurance)
 - [Europe](#europe)
   - [Accelerators / Venture Funds](#accelerators--venture-funds-2)
   - [GitHub Projects](#github-projects-2)
@@ -51,12 +52,14 @@
   - [Analytics Platforms](#analytics-platforms-2)
   - [Cost Estimation & Calculators](#cost-estimation--calculators-2)
   - [APIs](#apis-2)
+  - [Insurance](#insurance-1)
 - [Asia](#asia)
   - [Analytics Platforms](#analytics-platforms-3)
   - [Authoritative Research & Publications](#authoritative-research--publications-2)
 - [Oceania](#oceania)
   - [Analytics Platforms](#analytics-platforms-4)
   - [Visualization Tools](#visualization-tools-1)
+  - [Insurance](#insurance-2)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -265,9 +268,28 @@
 - [AddressIntel](https://addressintel.co/permits) - Free building-permit tracker with address-level search for SF Peninsula and South Bay cities, updated daily from municipal sources.
 - [Van Permit Audit](https://www.vanpermitaudit.ca/) - AI compliance checker for Vancouver, Canada building permits — validates permit PDFs against City of Vancouver bylaws and returns a structured pass/fail report.
 
+### Insurance
+
+- [Betterview](http://betterview.com) - Aerial-imagery property intelligence platform for insurance underwriters and agents.
+- [SingleKey](https://www.singlekey.com/) - Combines tenant screening with rent-guarantee insurance for landlords.
+- [Rhino](http://www.sayrhino.com) - Insurance-backed alternative to cash security deposits for renters.
+- [Openly](http://www.openly.com) - Digital homeowners insurance carrier distributed through independent agents.
+- [Obie](https://www.obierisk.com) - Online insurance quoting built for landlords and rental property investors.
+- [Matic](http://www.matic.com) - Digital home and auto insurance marketplace embedded in the homeownership journey.
+- [Livly](https://www.livly.io) - Multifamily resident-experience platform with renters insurance bundled into its building services.
+- [Kin](http://www.kin.com) - Homeowners insurance priced and customized using property-level data.
+- [LeaseLock](http://www.leaselock.com) - Replaces cash security deposits with embedded lease insurance for rental operators.
+- [Jetty](https://www.jetty.com/) - Renter-focused insurance and security-deposit alternatives for property managers.
+- [Covered](http://www.itscovered.com) - Independent digital insurance agency comparing home and auto insurance quotes.
+- [Comparion](https://www.comparioninsurance.com/) - Liberty Mutual-affiliated agency helping homeowners compare insurance coverage across carriers.
+- [Blend](http://www.blend.com) - Mortgage-origination infrastructure for banks that also powers embedded home insurance.
+- [Billy](https://billyforinsurance.com/) - Digital insurance agency specializing in coverage for construction contractors.
+- [Lemonade](http://www.lemonade.com) - AI-driven digital insurer offering renters and homeowners insurance.
+- [TheGuarantors](https://www.theguarantors.com/) - Provides lease insurance and rent-guarantee products for residents and operators nationwide.
+
 ## Europe
 
-- Countries covered so far: Germany, United Kingdom, Switzerland, France, Georgia.
+- Countries covered so far: Germany, United Kingdom, Switzerland, France, Georgia, Spain.
 
 ### Accelerators / Venture Funds
 
@@ -302,6 +324,15 @@
 - [Estate](https://estate.sh/developers) - Read-only API for current Georgia property listings, locations, prices, and exchange rates.
 - [PermisAPI](https://permisapi.fr) - REST API for 311,000+ French building permits (Sitadel dataset, geocoded via BAN, webhooks, Python SDK).
 
+### Insurance
+
+- [Schadenfux24](https://schadenfux24.de/) - Digitizes and speeds up property insurance claims handling for German real estate.
+- [Cautioneo](https://www.cautioneo.com/) - French digital rent guarantor replacing traditional deposits and human guarantors for tenants.
+- [FlexMyRoom](https://flexmyroom.com) - Bundles cancellation and payment-protection insurance into short-term room and flat rental bookings.
+- [Garentii](https://garentii.com/de/en/) - Lets renters replace a cash security deposit with a flexible deposit-insurance product.
+- [Swikly](https://www.swikly.com/en/) - Secures rental deposits with a card pre-authorization instead of holding cash upfront.
+- [Luko](https://fr.luko.eu/) - French insurtech offering simple, transparent home insurance for tenants and homeowners.
+
 ## Asia
 
 - Countries covered so far: Japan, South Korea, Thailand.
@@ -327,3 +358,7 @@
 ### Visualization Tools
 
 - [EquitySight](https://equitysight.app/) - Free Australian property investment platform with tools to help buyers and investors make smarter decisions.
+
+### Insurance
+
+- [First Title](https://www.firsttitle.com.au/) - Title insurance for residential, strata, and commercial property owners in Australia.
