@@ -23,11 +23,15 @@ You'll need a [GitHub account](https://github.com/join)!
 
 A few things that keep the list useful and get your PR merged faster:
 
+- **Meet the curation bar** — this is a selective list, not a directory. Submit only resources you would personally recommend to a real-estate practitioner. We do not accept generic AI wrappers, thin tools, SEO or lead-generation sites, or projects that cannot demonstrate meaningful usefulness beyond their own marketing copy.
+- **Show why it belongs** — explain the concrete real-estate problem it solves, what makes it meaningfully different from entries already listed, and provide evidence of active maintenance or real-world use. Useful evidence includes public documentation, a changelog, a source repository, customer references, reputable coverage, or other independently verifiable material. A live landing page alone is insufficient.
 - **Check the link is live** — not a parked domain, a 404, or something that only works after signing up.
 - **Check it isn't already listed** — search the README for the domain or name first.
 - **One line, ending with a period**, and don't just repeat the resource's name (e.g. avoid "RISMedia is a reputable source...").
 - **Put it in the right region, then the right category.** The list is organized by region first (`## North America`, `## Europe`, ...), then by category within that region (`### CRMs`, `### APIs`, ...). If the resource is tied to a specific country or market (its data, coverage, or regulations only apply there), file it under that region. If it's genuinely usable regardless of market — most generic SaaS, CRMs, meta-lists — it goes under `## Global`. If the right region or category doesn't exist yet, propose one.
 - **Disclose affiliation.** If you built or work on what you're submitting, that's welcome — just say so in the PR.
+
+Submissions that do not meet these requirements may be closed without an extended review.
 
 CI runs [`awesome-lint`](https://github.com/sindresorhus/awesome-lint) and a link checker on every PR, and will flag most formatting issues automatically. If the Table of Contents check fails, run `npx doctoc --github --title "## Contents" README.md` locally and commit the result.
 
