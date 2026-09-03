@@ -232,6 +232,7 @@
 - [Restar](https://restar.io/) - Housing market scores and 12-month price forecasts for every US state, metro, county and ZIP code, built from Zillow, Redfin, Census, BLS, FHFA and Federal Reserve data. Market pages are free with no account.
 - [Reonomy](https://www.reonomy.com/) - Provides detailed commercial real estate data and analytics, including property records and ownership information.
 - [Amortio](https://www.amortio.com/) - Free mortgage calculators using Freddie Mac PMMS rate data, with PITI breakdown, FHA/VA/USDA loan eligibility, and refinance break-even analysis.
+- [Underlytix](https://underlytix.com) - Deal-fundability scoring for real estate investors, realtors, and lenders. Returns a Capital Readiness Score with DSCR, LTV, and cash-on-cash analysis plus matched lender recommendations, before a loan application or credit pull.
 
 ### Educational Resources
 
