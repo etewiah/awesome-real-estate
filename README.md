@@ -345,7 +345,7 @@
 ### Authoritative Research & Publications
 
 - [Phuket Condo Asking-Price Snapshot](https://kvartiry-phuket.com/en/phuket-condo-prices/) - CC BY 4.0 aggregate research covering 391 exact-URL-deduplicated Phuket condo sale-listing observations from April to July 2026, with methodology, limitations, charts, and downloadable CSV/JSON; asking prices, not transactions or active inventory.
-- [Bangkok Off-Plan Housing Pipeline](https://baanscope.com/data) - CC BY 4.0 aggregates of the residential construction underway in the Bangkok Metropolitan Region, compiled from the public listings of Thailand's nine largest listed developers and re-checked every two days; 81 districts, 9 developers and 6 completion years as CSV/JSON with a column dictionary, reporting project and unit counts, median asking prices and government-appraised land values rather than transactions.
+- [Bangkok Off-Plan Housing Pipeline](https://baanscope.com/data) - CC BY 4.0 aggregates of the residential construction underway in the Bangkok Metropolitan Region, compiled from the public listings of Thailand's nine largest listed developers and re-checked every two days; eight tables as CSV/JSON with a column dictionary. Four cover the pipeline by district, developer, completion year and rail line, reporting project and unit counts, median asking prices and government-appraised land values rather than transactions. Four join it to public registers: the city plan (floor area ratio in force per land-use class, and what the March 2026 draft would change), the national EIA register (filings approved and still recorded as not started), the city's monitored flood points, and OpenStreetMap amenities within 800 m.
 
 ## Oceania
 
