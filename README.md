@@ -125,6 +125,10 @@
 - [Masterclass: Real Estate](https://www.masterclass.com/) - Professional real estate courses from industry experts.
 - [Udemy Real Estate Courses](https://www.udemy.com/topic/real-estate/) - Offers a variety of courses covering real estate investing, property management, and market analysis.
 
+### Funding & Lending Services
+
+- [AccessFundsNow.com](https://www.accessfundsnow.com/) - Connects real estate investors with funding for earnest money, fix-and-flip loans, and down payments.
+
 ### Gamification
 
 - [House Price Guess](https://housepriceguess.com/) - A fun game that challenges you to guess the prices of properties.
