@@ -112,6 +112,7 @@
 - [Individual-Rental-Portfolio-Analytics](https://github.com/YSayaovong/Individual-Rental-Portfolio-Analytics) - A Power BI and PostgreSQL dashboard for long-term rental property financial analysis.
 - [Investment Portfolio Optimization](https://github.com/MarionJelimo/real-estate-investment-portfolio-optimization-using-time-series) - A project for time series forecasting of property values.
 - [Real Estate Price Prediction Project](https://github.com/shanuhalli/Project-Real-Estate-Price-Prediction) - An end-to-end data science project for real estate price prediction.
+- [data-vault](https://github.com/jayjex/data-vault) - A catalog of preprocessed public rental and housing datasets, with HUD Fair Market Rents for every U.S. ZIP code (51,895 rows) and Inside Airbnb listings for six cities, plus free sample downloads and CSVs.
 
 ### Blogs
 
