@@ -216,6 +216,7 @@
 
 - [AssetCalcs](https://assetcalcs.com/) - Fast, ad-free investment and tax calculators for US/UK real estate investors (DSCR, BRRRR, Cap Rate, Hard Money, and BTL).
 - [Build Quantities](https://buildquantities.com/) - Free construction quantity calculators for concrete, gravel, asphalt, blocks, and other materials with metric and imperial inputs.
+- [SmartBizCalc](https://smartbizcalc.com/) - Free cost calculators for contractors and property professionals covering roofing estimates, HVAC replacement, driveway paving, painter rates, plumber rates, and contractor bid pricing.
 
 ### Development & Construction
 
