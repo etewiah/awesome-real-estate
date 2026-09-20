@@ -58,6 +58,8 @@
 
 ## Resources
 
+- [Zornade MCP](https://mcp.zornade.com) - Cadastral, risk, solar and valuation data for every Italian property, exposed to AI assistants as an MCP server with a free API key.
+
 ### Blogs
 
 - [GeekEstateBlog](http://geekestateblog.com/) - Insightful articles with a focus on technology.
