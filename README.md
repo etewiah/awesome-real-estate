@@ -479,6 +479,7 @@
 - [Yopa Property](https://www.yopa.co.uk/) - UK fixed-fee estate agency offering full-service home sales and lettings.
 - [housfy](https://housfy.com) - Spanish real estate platform combining local expertise with technology to sell homes faster.
 - [Housell](https://housell.com) - Spanish real estate technology company blending online tools with local agent networks for home sales.
+- [CoworkingView](https://coworkingview.com) - Independent search and comparison platform for coworking spaces and private offices across Europe and the UAE, publishing operator-listed prices and a CC BY 4.0 per-city price index.
 
 ### Directories
 
