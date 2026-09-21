@@ -424,6 +424,7 @@
 - [Buildertrend](https://buildertrend.com/) - Cloud-based construction project-management software for scheduling, estimating, and change orders.
 - [EquipmentShare](https://www.equipmentshare.com) - Construction equipment rental and fleet-management platform with connected telematics.
 - [Housecall Pro](http://www.housecallpro.com/) - Field-service management software for scheduling, dispatching, and invoicing home-service professionals.
+- [FieldServiceScout](https://www.fieldservicescout.com/compare/jobber-vs-housecall-pro) - Independent, vendor-neutral Jobber vs Housecall Pro comparison (features + modeled true cost) for trade shops shortlisting FSM software.
 - [Lessen](https://www.lessen.com/) - Tech-enabled property-services platform for renovations, turns, and maintenance across single-family and multifamily rentals.
 - [Block Renovation](https://www.blockrenovation.com/) - Platform matching homeowners with vetted contractors and managing home-renovation projects end-to-end.
 - [BossCat](https://bosscathome.com/) - Home-repair and renovation platform serving homebuyers, sellers, and real estate professionals with pre-listing fixes.
