@@ -491,6 +491,7 @@
 - [Airdna](https://www.airdna.co/) - Short-term rental data platform tracking performance across millions of vacation-rental listings worldwide.
 - [Wüest Partner](https://www.wuestpartner.com/) - Swiss real estate data and advisory firm providing valuation and market-decision tools.
 - [Drooms](https://drooms.com) - European data-room provider for secure due-diligence document management in real estate transactions.
+- [VivaMap](https://vivamap.ch/) - Neighborhood-quality scoring for all 2,134 Swiss communes across nine dimensions (noise, air, sunlight, transit, schools, healthcare, amenities, nature, taxes), plus a household tax explorer covering 40 profiles; aggregated scores are published as CC BY-SA CSVs. A Dutch edition covers 342 gemeenten.
 
 ### Cost Estimation & Calculators
 
