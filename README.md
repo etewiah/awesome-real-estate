@@ -216,6 +216,7 @@
 
 - [AssetCalcs](https://assetcalcs.com/) - Fast, ad-free investment and tax calculators for US/UK real estate investors (DSCR, BRRRR, Cap Rate, Hard Money, and BTL).
 - [Build Quantities](https://buildquantities.com/) - Free construction quantity calculators for concrete, gravel, asphalt, blocks, and other materials with metric and imperial inputs.
+- [BidWright](https://github.com/braedonsaunders/bidwright) - Open-source AI-native construction estimating with 2D/3D/PDF/BIM takeoff, pricing, scheduling, and bid quotes.
 
 ### Development & Construction
 
