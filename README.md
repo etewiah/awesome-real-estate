@@ -549,6 +549,7 @@
 - [Rever](https://rever.vn/) - Vietnamese real estate technology company offering map-based listings and brokerage services.
 - [PropStory](https://propstory.com/) - Indian real estate content platform reviewing and curating property listings for buyers.
 - [makaan.com](https://www.makaan.com/) - Indian property portal connecting buyers with owners, agents, and builders.
+- [Engawa](https://engawahomes.com) - English-language property portal for foreign buyers in Japan, aggregating akiya, kominka, condo, land, and new-build listings on a map with hazard and transit data.
 
 ### Analytics Platforms
 
