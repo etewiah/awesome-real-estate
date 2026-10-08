@@ -216,6 +216,7 @@
 
 - [AssetCalcs](https://assetcalcs.com/) - Fast, ad-free investment and tax calculators for US/UK real estate investors (DSCR, BRRRR, Cap Rate, Hard Money, and BTL).
 - [Build Quantities](https://buildquantities.com/) - Free construction quantity calculators for concrete, gravel, asphalt, blocks, and other materials with metric and imperial inputs.
+- [RentScope](https://lowlune.github.io/rentscope/) - Free, privacy-first browser calculators for rental-property analysis (cash flow, cap rate, cash-on-cash, DSCR, IRR, NOI, break-even occupancy, 1031 exchange, depreciation, and seller financing) backed by a tested, open-source MIT engine.
 
 ### Development & Construction
 
