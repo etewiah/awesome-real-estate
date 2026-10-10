@@ -535,7 +535,7 @@
 
 ## Asia
 
-- Countries covered so far: Japan, South Korea, Thailand, India, Singapore, Vietnam, Israel, Hong Kong.
+- Countries covered so far: Japan, South Korea, Thailand, India, Singapore, Vietnam, Israel, Hong Kong, United Arab Emirates.
 
 ### Marketplaces
 
@@ -554,6 +554,7 @@
 
 - [Japan Neighborhoods](https://japanneighborhoods.com) - Free neighborhood-level crime, safety, and property price data for 5,078 Tokyo neighborhoods. English-language government data for expat homebuyers and investors. Includes interactive crime map, safety grading (A+ to F), and REST API.
 - [GeoInfomatic — Living Zone Accessibility (Korea)](https://geoinfomatic.pythonanywhere.com) - Isochrone-based neighborhood accessibility analyzer for South Korea. Pick any address, see 10/20/30/45-min walking or transit reachability with 8 facility types overlaid. 100-point composite score with AI summary. No real-estate listings — pure accessibility analysis for moving / due-diligence decisions. Freemium.
+- [Dubai Diligence](https://dubaidiligence.com/data) - Free registered sale prices, rents and gross yields for 170 Dubai communities from the Dubai Land Department transaction record, as CSV and JSON under CC BY 4.0 with no sign-up. Registered transactions rather than asking prices, split by ready versus off-plan. Includes a monthly mix-adjusted house price index with published method, and an MCP server for AI assistants.
 
 ### Interior Design & Renovation
 
