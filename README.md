@@ -450,7 +450,7 @@
 
 ## Europe
 
-- Countries covered so far: Germany, United Kingdom, Switzerland, France, Georgia, Spain, Norway, Sweden.
+- Countries covered so far: Germany, United Kingdom, Switzerland, France, Georgia, Spain, Norway, Sweden, Poland.
 
 ### Accelerators / Venture Funds
 
@@ -461,6 +461,7 @@
 
 - [Visura API](https://github.com/zornade/visura-api) - AGPL-3.0 FastAPI + Playwright service that retrieves Italian cadastral registry (land registry ownership and property records) documents via automated browser interaction, exposed as a REST API. Powers [Zornade](https://app.zornade.com), which combines cadastral, hydrogeological risk and price data for 85M Italian parcels.
 - [BailleurVerif](https://github.com/Creariax5/bailleurverif) - Open dataset of non-compliant French rental listings (7 cities, ~210 listings/wave, 11 git-timestamped temporal waves, 57.6% cross-wave persistence, daily crawl). MIT-licensed Python pipeline + Etalab v2.0 dataset on data.gouv.fr for housing market research and regulatory compliance analytics.
+- [Poland Housing Prices](https://github.com/yngzty4229-art/poland-housing-prices) - Open weekly dataset of apartment prices from Polish notarial deeds (official RCN register) for the largest cities: median price per m², primary vs resale, year-on-year change and developers' asking prices (CSV, CC BY 4.0).
 
 ### Events
 
@@ -502,6 +503,7 @@
 
 - [Estate](https://estate.sh/developers) - Read-only API for current Georgia property listings, locations, prices, and exchange rates.
 - [PermisAPI](https://permisapi.fr) - REST API for 311,000+ French building permits (Sitadel dataset, geocoded via BAN, webhooks, Python SDK).
+- [Poland Real Estate APIs](https://apify.com/kris_fili) - APIs for any address in Poland: transaction prices from notarial deeds, developers' asking prices, the asking-vs-deed price gap and an apartment valuation model (AVM).
 
 ### Insurance
 
