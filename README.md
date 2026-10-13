@@ -497,6 +497,7 @@
 - [Simulateur Prix Construction Maison](https://simulateur-prix-construction-maison.fr/) - Free French construction cost estimator with 36 criteria and 25 budget line items, built by a construction professional with 30+ years of experience. Covers all regions of France.
 - [Budget-Maison.com](https://budget-maison.com/) - Quick French construction budget estimator.
 - [Build It Calculator](https://www.self-build.co.uk/build-cost-calculator/) - UK self-build cost calculator.
+- [Klara WEG Calculators](https://heyklara.de/rechner/) - Free German condominium-owner calculators for meeting invitation deadlines, monthly Hausgeld and administration-cost comparisons, with formulas and sources; by Klara, a Berlin WEG administration in development for 2027.
 
 ### APIs
 
