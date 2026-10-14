@@ -239,6 +239,7 @@
 - [Zoneomics API](https://www.zoneomics.com/pricing/zoning-data-apis) - Offers scalable and flexible API options for integrating zoning data.
 - [Staying API](https://stayingapi.com) - Real-time Airbnb and short-term rental listing data: photos, reviews, host, pricing, and 12-month availability by listing ID, URL, or address, or search by location, dates, and price. REST + MCP, free tier.
 - [Superhighway](https://superhighway.walls.sh) - Web search, news, scrape, and research API for AI agents. Useful for building real estate research agents that pull listings, scrape property pages, and gather neighborhood context. See the [real estate research agent guide](https://superhighway.walls.sh/guides/real-estate-agent).
+- [baseray](https://baseray.ai) - Building data API and MCP server: address, use, size, height, age, roof, solar panels and registered businesses.
 
 ### Lead Page Builders
 
