@@ -239,6 +239,7 @@
 - [Zoneomics API](https://www.zoneomics.com/pricing/zoning-data-apis) - Offers scalable and flexible API options for integrating zoning data.
 - [Staying API](https://stayingapi.com) - Real-time Airbnb and short-term rental listing data: photos, reviews, host, pricing, and 12-month availability by listing ID, URL, or address, or search by location, dates, and price. REST + MCP, free tier.
 - [Superhighway](https://superhighway.walls.sh) - Web search, news, scrape, and research API for AI agents. Useful for building real estate research agents that pull listings, scrape property pages, and gather neighborhood context. See the [real estate research agent guide](https://superhighway.walls.sh/guides/real-estate-agent).
+- [DC Hub](https://dchub.cloud) - DC Hub is the live data layer for data-center site selection. Its Data Center Power Index (DCPI) is a daily score of where data centers can get grid power, across 300+ markets. REST API at https://dchub.cloud/api/v1 and a remote MCP server at https://dchub.cloud/mcp for AI agents, with live grid feeds and electricity prices by US state and ISO. Free tier needs no key.
 
 ### Lead Page Builders
 
