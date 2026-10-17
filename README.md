@@ -332,6 +332,7 @@
 
 - [HomeAdvisor True Cost Guide](https://www.homeadvisor.com/cost/) - U.S.-focused home improvement and construction cost data.
 - [RSMeans](https://www.rsmeans.com/) - Industry-standard construction cost data and estimation tools (U.S. and Canada).
+- [BubbleWatch Calculators](https://bubblewatch.ca/calculators/) - Canadian mortgage payment, affordability and stress-test calculators that show the GDS and TDS limits, CMHC rules and total cost of ownership alongside the payment.
 
 ### APIs
 
