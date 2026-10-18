@@ -450,7 +450,7 @@
 
 ## Europe
 
-- Countries covered so far: Germany, United Kingdom, Switzerland, France, Georgia, Spain, Norway, Sweden.
+- Countries covered so far: Germany, United Kingdom, Switzerland, France, Georgia, Spain, Norway, Sweden, Ireland.
 
 ### Accelerators / Venture Funds
 
@@ -501,6 +501,7 @@
 ### APIs
 
 - [Estate](https://estate.sh/developers) - Read-only API for current Georgia property listings, locations, prices, and exchange rates.
+- [Everytownland](https://everytownland.com/api) - Read-only API for land in Ireland: freehold parcels, development plan zoning, planning applications and every Property Price Register sale since 2010, by townland or street, with no key.
 - [PermisAPI](https://permisapi.fr) - REST API for 311,000+ French building permits (Sitadel dataset, geocoded via BAN, webhooks, Python SDK).
 
 ### Insurance
