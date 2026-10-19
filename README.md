@@ -348,6 +348,7 @@
 
 - [AddressIntel](https://addressintel.co/permits) - Free building-permit tracker with address-level search for SF Peninsula and South Bay cities, updated daily from municipal sources.
 - [Van Permit Audit](https://www.vanpermitaudit.ca/) - AI compliance checker for Vancouver, Canada building permits — validates permit PDFs against City of Vancouver bylaws and returns a structured pass/fail report.
+- [Lamuko Rent Laws](https://rent.lamuko.com/security-deposit-laws/) - Security deposit rules for all 50 US states and DC (caps, return deadlines, itemization, interest, penalties), each field linked to the statute and published as a JSON dataset, plus a return-deadline calculator.
 
 ### Insurance
 
