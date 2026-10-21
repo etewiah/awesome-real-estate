@@ -227,6 +227,7 @@
 ### AI & Virtual Assistants
 
 - [AnveVoice](https://anvevoice.app) - AI voice agent for real estate websites that qualifies leads, schedules property showings, answers listing questions, and talks to visitors in 50+ languages.
+- [Spaceora](https://spaceora.app) - AI room and garden designer — redesign interiors, virtually stage, and plan landscapes from a single photo.
 
 ### Inspection & Reporting
 
