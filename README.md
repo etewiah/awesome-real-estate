@@ -330,6 +330,7 @@
 
 ### Cost Estimation & Calculators
 
+- [AgentMarketPack Months of Supply Calculator](https://agentmarketpack.com/tools/months-of-supply-calculator) - Free, no-signup calculator that turns active listings and closed sales from a U.S. MLS into months of supply, with a plain-English read and a caption agents can post.
 - [HomeAdvisor True Cost Guide](https://www.homeadvisor.com/cost/) - U.S.-focused home improvement and construction cost data.
 - [RSMeans](https://www.rsmeans.com/) - Industry-standard construction cost data and estimation tools (U.S. and Canada).
 
