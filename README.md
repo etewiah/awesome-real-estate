@@ -564,6 +564,7 @@
 
 - [Phuket Condo Asking-Price Snapshot](https://kvartiry-phuket.com/en/phuket-condo-prices/) - CC BY 4.0 aggregate research covering 391 exact-URL-deduplicated Phuket condo sale-listing observations from April to July 2026, with methodology, limitations, charts, and downloadable CSV/JSON; asking prices, not transactions or active inventory.
 - [Bangkok Off-Plan Housing Pipeline](https://baanscope.com/data) - CC BY 4.0 aggregates of the residential construction underway in the Bangkok Metropolitan Region, compiled from the public listings of Thailand's nine largest listed developers and re-checked every two days; 81 districts, 9 developers and 6 completion years as CSV/JSON with a column dictionary, reporting project and unit counts, median asking prices and government-appraised land values rather than transactions.
+- [Dubai DLD Monthly Sales Statistics](https://github.com/marfa77/dubai-dld-monthly-stats) - MIT-licensed monthly aggregates of registered Dubai property sales built from the Dubai Land Department open data feed, covering 2026-01 to 2026-08, 247 areas and 112,220 transactions as CSV/JSON with transaction counts, median price, median AED per sqft and off-plan share by area and property type, plus the reproducible aggregation script; not an official DLD product.
 
 ### Construction & Building Technology
 
