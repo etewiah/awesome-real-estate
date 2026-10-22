@@ -239,7 +239,7 @@
 - [Zoneomics API](https://www.zoneomics.com/pricing/zoning-data-apis) - Offers scalable and flexible API options for integrating zoning data.
 - [Staying API](https://stayingapi.com) - Real-time Airbnb and short-term rental listing data: photos, reviews, host, pricing, and 12-month availability by listing ID, URL, or address, or search by location, dates, and price. REST + MCP, free tier.
 - [Superhighway](https://superhighway.walls.sh) - Web search, news, scrape, and research API for AI agents. Useful for building real estate research agents that pull listings, scrape property pages, and gather neighborhood context. See the [real estate research agent guide](https://superhighway.walls.sh/guides/real-estate-agent).
-- [Listingrail](https://listingrail.com/) - REST API for sale and rental listings from 17 portals in the US, UK, Europe and the UAE (Zillow, Redfin, Rightmove, Idealista, ImmoScout24, Bayut and more) in one JSON format, plus daily monitors for new listings and price cuts. Free tier.
+- [Listingrail](https://listingrail.com/) - REST API for sale and rental listings from 18 portals in the US, UK, Europe and the UAE (Zillow, Realtor.com, Redfin, Rightmove, Idealista, ImmoScout24, Bayut and more) in one JSON format, plus daily monitors for new listings and price cuts. Free tier.
 
 ### Lead Page Builders
 
