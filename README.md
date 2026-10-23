@@ -109,6 +109,7 @@
 - [Real Estate Data Scraper](https://github.com/oxylabs/scraping-real-estate-data-with-python) - A Python-based tool for scraping real estate property data from various listing websites.
 - [real-estate-calculations](https://github.com/biegehydra/real-estate-calculations) - TypeScript functions for evaluating rental investment performance.
 - [real-estate-roi-calculator](https://github.com/Alirazahaider/real-estate-roi-calculator) - TypeScript utility for computing rental investment metrics.
+- [rental-deal-calculator](https://github.com/onyxaholguin-cyber/rental-deal-calculator) - Dependency-free JavaScript module and browser tool for rental cash flow, NOI, cap rate, cash-on-cash, DSCR and the 1% rule.
 - [Individual-Rental-Portfolio-Analytics](https://github.com/YSayaovong/Individual-Rental-Portfolio-Analytics) - A Power BI and PostgreSQL dashboard for long-term rental property financial analysis.
 - [Investment Portfolio Optimization](https://github.com/MarionJelimo/real-estate-investment-portfolio-optimization-using-time-series) - A project for time series forecasting of property values.
 - [Real Estate Price Prediction Project](https://github.com/shanuhalli/Project-Real-Estate-Price-Prediction) - An end-to-end data science project for real estate price prediction.
