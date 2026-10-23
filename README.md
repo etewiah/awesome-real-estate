@@ -331,6 +331,7 @@
 ### Cost Estimation & Calculators
 
 - [HomeAdvisor True Cost Guide](https://www.homeadvisor.com/cost/) - U.S.-focused home improvement and construction cost data.
+- [Roof Cost Data](https://roofcostdata.com/roof-replacement-cost-calculator) - Free U.S. roof replacement cost calculator with planning ranges by roof size, material, tear-off, and location; no signup.
 - [RSMeans](https://www.rsmeans.com/) - Industry-standard construction cost data and estimation tools (U.S. and Canada).
 
 ### APIs
