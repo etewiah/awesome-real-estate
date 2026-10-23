@@ -217,6 +217,7 @@
 
 - [AssetCalcs](https://assetcalcs.com/) - Fast, ad-free investment and tax calculators for US/UK real estate investors (DSCR, BRRRR, Cap Rate, Hard Money, and BTL).
 - [Build Quantities](https://buildquantities.com/) - Free construction quantity calculators for concrete, gravel, asphalt, blocks, and other materials with metric and imperial inputs.
+- [CREAssets Waterfall Model](https://creassets.com/tools/real-estate-waterfall-model-excel) - Free Excel workbook that splits a real estate partnership's cash flows between LPs and the GP through IRR hurdles and two promote tiers, with live formulas and no sign-up.
 
 ### Development & Construction
 
