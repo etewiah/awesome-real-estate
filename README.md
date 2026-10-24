@@ -65,6 +65,7 @@
   - [Analytics Platforms](#analytics-platforms-2)
   - [Cost Estimation & Calculators](#cost-estimation--calculators-2)
   - [APIs](#apis-2)
+  - [Compliance & Permit Tools](#compliance--permit-tools-1)
   - [Insurance](#insurance-1)
   - [Mortgage & Financing](#mortgage--financing-1)
   - [Development & Construction](#development--construction-2)
@@ -518,6 +519,10 @@
 - [PermisAPI](https://permisapi.fr) - REST API for 311,000+ French building permits (Sitadel dataset, geocoded via BAN, webhooks, Python SDK).
 - [Zornade MCP](https://mcp.zornade.com) - Open-source MCP server for Italian cadastral parcel lookup, address geocoding, and administrative-area data through the Zornade API, with a free API key.
 - [Poland Property Transaction API](https://apify.com/kris_fili/poland-real-estate-transaction-prices) - Hosted API for Polish property transaction prices from the RCN register, with address-based lookup and public input/output documentation.
+
+### Compliance & Permit Tools
+
+- [Certaby](https://certaby.com/) - AML, sanctions, ID and Right to Rent checks for UK lettings and sales, with one signed, verifiable certificate per transaction.
 
 ### Insurance
 
