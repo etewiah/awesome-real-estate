@@ -109,6 +109,7 @@
 - [Real Estate Data Scraper](https://github.com/oxylabs/scraping-real-estate-data-with-python) - A Python-based tool for scraping real estate property data from various listing websites.
 - [real-estate-calculations](https://github.com/biegehydra/real-estate-calculations) - TypeScript functions for evaluating rental investment performance.
 - [real-estate-roi-calculator](https://github.com/Alirazahaider/real-estate-roi-calculator) - TypeScript utility for computing rental investment metrics.
+- [rental-deal-calculator](https://github.com/onyxaholguin-cyber/rental-deal-calculator) - Dependency-free JavaScript module and browser tool for rental cash flow, NOI, cap rate, cash-on-cash, DSCR and the 1% rule.
 - [Individual-Rental-Portfolio-Analytics](https://github.com/YSayaovong/Individual-Rental-Portfolio-Analytics) - A Power BI and PostgreSQL dashboard for long-term rental property financial analysis.
 - [Investment Portfolio Optimization](https://github.com/MarionJelimo/real-estate-investment-portfolio-optimization-using-time-series) - A project for time series forecasting of property values.
 - [Real Estate Price Prediction Project](https://github.com/shanuhalli/Project-Real-Estate-Price-Prediction) - An end-to-end data science project for real estate price prediction.
@@ -216,6 +217,7 @@
 
 - [AssetCalcs](https://assetcalcs.com/) - Fast, ad-free investment and tax calculators for US/UK real estate investors (DSCR, BRRRR, Cap Rate, Hard Money, and BTL).
 - [Build Quantities](https://buildquantities.com/) - Free construction quantity calculators for concrete, gravel, asphalt, blocks, and other materials with metric and imperial inputs.
+- [CREAssets Waterfall Model](https://creassets.com/tools/real-estate-waterfall-model-excel) - Free Excel workbook that splits a real estate partnership's cash flows between LPs and the GP through IRR hurdles and two promote tiers, with live formulas and no sign-up.
 
 ### Development & Construction
 
@@ -239,6 +241,7 @@
 - [Zoneomics API](https://www.zoneomics.com/pricing/zoning-data-apis) - Offers scalable and flexible API options for integrating zoning data.
 - [Staying API](https://stayingapi.com) - Real-time Airbnb and short-term rental listing data: photos, reviews, host, pricing, and 12-month availability by listing ID, URL, or address, or search by location, dates, and price. REST + MCP, free tier.
 - [Superhighway](https://superhighway.walls.sh) - Web search, news, scrape, and research API for AI agents. Useful for building real estate research agents that pull listings, scrape property pages, and gather neighborhood context. See the [real estate research agent guide](https://superhighway.walls.sh/guides/real-estate-agent).
+- [Yatmo](https://yatmo.com/real-estate-poi-api) - Neighbourhood data API for property listings in 25 countries: nearest schools, shops and public transport with real travel times by every mode, an indexable neighbourhood text, scores and isochrones, plus an embeddable map widget and an MCP server.
 
 ### Lead Page Builders
 
@@ -327,10 +330,12 @@
 ### Authoritative Research & Publications
 
 - [Cost Segregation Benchmarks 2026](https://costsegsmart.com/research/benchmarks-2026/) - Open-data report on 260 cost segregation studies across 13 US property types. Reports median reclassification percentages, year-1 federal tax savings, and US provider pricing. CC-BY 4.0 licensed; CSV dataset available.
+- [MLS Photo Rules Dataset](https://github.com/October-ai-jpg/listing-photo-data) - Photo limits, required shots, branding bans, virtual-staging and AI-alteration labels, original-photo requirements and fines at 22 US MLSs, each row sourced to the MLS's own published rules with the date it was checked. CSV/JSON, CC BY 4.0.
 
 ### Cost Estimation & Calculators
 
 - [HomeAdvisor True Cost Guide](https://www.homeadvisor.com/cost/) - U.S.-focused home improvement and construction cost data.
+- [RentVsBuyMath](https://rentvsbuymath.com) - Free U.S. rent-vs-buy calculator that models opportunity cost on both sides under 2026 tax rules, plus a monthly tipping-rent table for the 97 largest metros; MIT-licensed engine with an automated test suite.
 - [RSMeans](https://www.rsmeans.com/) - Industry-standard construction cost data and estimation tools (U.S. and Canada).
 
 ### APIs
@@ -450,7 +455,7 @@
 
 ## Europe
 
-- Countries covered so far: Germany, United Kingdom, Switzerland, France, Georgia, Spain, Norway, Sweden.
+- Countries covered so far: Germany, United Kingdom, Switzerland, France, Georgia, Spain, Norway, Sweden, Ireland.
 
 ### Accelerators / Venture Funds
 
@@ -479,6 +484,7 @@
 - [Yopa Property](https://www.yopa.co.uk/) - UK fixed-fee estate agency offering full-service home sales and lettings.
 - [housfy](https://housfy.com) - Spanish real estate platform combining local expertise with technology to sell homes faster.
 - [Housell](https://housell.com) - Spanish real estate technology company blending online tools with local agent networks for home sales.
+- [CoworkingView](https://coworkingview.com) - Independent search and comparison platform for coworking spaces and private offices across Europe and the UAE, publishing operator-listed prices and a CC BY 4.0 per-city price index.
 
 ### Directories
 
@@ -491,7 +497,8 @@
 - [Airdna](https://www.airdna.co/) - Short-term rental data platform tracking performance across millions of vacation-rental listings worldwide.
 - [Wüest Partner](https://www.wuestpartner.com/) - Swiss real estate data and advisory firm providing valuation and market-decision tools.
 - [Drooms](https://drooms.com) - European data-room provider for secure due-diligence document management in real estate transactions.
-- [VivaMap](https://vivamap.ch/) - Neighborhood-quality scoring for all 2,134 Swiss communes across nine dimensions (noise, air, sunlight, transit, schools, healthcare, amenities, nature, taxes), plus a household tax explorer covering 40 profiles; aggregated scores are published as CC BY-SA CSVs. A Dutch edition covers 342 gemeenten.
+- [VivaMap](https://vivamap.ch/) - Swiss neighborhood and commune quality-of-life scores derived from public environmental, transport, amenity, and tax data, with published methodology and CC BY-SA canton-level CSV aggregates.
+
 
 ### Cost Estimation & Calculators
 
@@ -502,6 +509,7 @@
 ### APIs
 
 - [Estate](https://estate.sh/developers) - Read-only API for current Georgia property listings, locations, prices, and exchange rates.
+- [Everytownland](https://everytownland.com/api) - Read-only API for land in Ireland: freehold parcels, development plan zoning, planning applications and every Property Price Register sale since 2010, by townland or street, with no key.
 - [PermisAPI](https://permisapi.fr) - REST API for 311,000+ French building permits (Sitadel dataset, geocoded via BAN, webhooks, Python SDK).
 
 ### Insurance
@@ -550,6 +558,7 @@
 - [Rever](https://rever.vn/) - Vietnamese real estate technology company offering map-based listings and brokerage services.
 - [PropStory](https://propstory.com/) - Indian real estate content platform reviewing and curating property listings for buyers.
 - [makaan.com](https://www.makaan.com/) - Indian property portal connecting buyers with owners, agents, and builders.
+- [Engawa](https://engawahomes.com) - English-language property portal for foreign buyers in Japan, aggregating akiya, kominka, condo, land, and new-build listings on a map with hazard and transit data.
 
 ### Analytics Platforms
 
@@ -564,7 +573,7 @@
 ### Authoritative Research & Publications
 
 - [Phuket Condo Asking-Price Snapshot](https://kvartiry-phuket.com/en/phuket-condo-prices/) - CC BY 4.0 aggregate research covering 391 exact-URL-deduplicated Phuket condo sale-listing observations from April to July 2026, with methodology, limitations, charts, and downloadable CSV/JSON; asking prices, not transactions or active inventory.
-- [Bangkok Off-Plan Housing Pipeline](https://baanscope.com/data) - CC BY 4.0 aggregates of the residential construction underway in the Bangkok Metropolitan Region, compiled from the public listings of Thailand's nine largest listed developers and re-checked every two days; 81 districts, 9 developers and 6 completion years as CSV/JSON with a column dictionary, reporting project and unit counts, median asking prices and government-appraised land values rather than transactions.
+- [Bangkok Off-Plan Housing Pipeline](https://baanscope.com/data) - CC BY 4.0 aggregates of the residential construction underway in the Bangkok Metropolitan Region, compiled from the public listings of Thailand's nine largest listed developers and re-checked every two days; eight tables as CSV/JSON with a column dictionary. Four cover the pipeline by district, developer, completion year and rail line, reporting project and unit counts, median asking prices and government-appraised land values rather than transactions. Four join it to public registers: the city plan (floor area ratio in force per land-use class, and what the March 2026 draft would change), the national EIA register (filings approved and still recorded as not started), the city's monitored flood points, and OpenStreetMap amenities within 800 m.
 
 ### Construction & Building Technology
 
