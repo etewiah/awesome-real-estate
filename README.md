@@ -348,6 +348,7 @@
 - [RealEstateAPI.com](https://www.realestateapi.com/) - API designed for PropTech solutions with unlimited property data and integrated machine-learning capabilities.
 - [UrbanKit Studio Parcel API](https://urbankitstudio.com/developers) - Address→owner/APN/mailing enrichment plus a verified ArcGIS REST endpoint directory for 155 US counties (free tier, $19/mo developer API, MCP server + npm SDK).
 - [Zip-Codes API](https://www.zip-codes.com/api/) - U.S. ZIP and Canadian postal code data with demographics, Census boundaries, school districts, radius search, and address validation.
+- [TerraScoutX API](https://terrascoutx.com/developers/) - Free US property records by address from county appraisal and assessor data: parcel, owner, value history, tax, FEMA flood zone and nearby schools.
 
 ### Compliance & Permit Tools
 
