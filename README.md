@@ -514,6 +514,7 @@
 - [baseray](https://baseray.ai) - Building-data API and MCP server covering Romania, Czechia, and Denmark, with address, size, use, age, roof, solar, and registered-business information distinguished by source and estimation status.
 - [Everytownland](https://everytownland.com/api) - Read-only API for land in Ireland: freehold parcels, development plan zoning, planning applications and every Property Price Register sale since 2010, by townland or street, with no key.
 - [PermisAPI](https://permisapi.fr) - REST API for 311,000+ French building permits (Sitadel dataset, geocoded via BAN, webhooks, Python SDK).
+- [Zornade MCP](https://mcp.zornade.com) - Open-source MCP server for Italian cadastral parcel lookup, address geocoding, and administrative-area data through the Zornade API, with a free API key.
 
 ### Insurance
 
