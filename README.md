@@ -197,6 +197,7 @@
 - [Ritn3D](https://www.ritn3d.com/) - AI floor plan to 3D model converter. Upload a PDF, JPG, or PNG floor plan and get a walkable 3D interior model in under 2 minutes. Free tier, native iOS and Android apps, web app, and share-via-browser-link with no install for the recipient.
 - [voxelyo](https://voxelyo.com) - AI photo enhancement subscription for Airbnb, Vrbo, and real estate listing photos, with denoising, sharpening, upscaling, and color correction on a flat unlimited plan.
 - [Immoviewer](https://www.immoviewer.com/) - 3D virtual tour and floor-plan platform for real estate agents and their clients.
+- [RoomMaker AI](https://roommakerai.org/) - AI listing-photo toolkit with virtual staging, furniture removal, day-to-dusk conversion, sky replacement, and photo enhancement that keeps the original room layout intact.
 
 ### Foundational Geospatial & Urban Data
 
