@@ -245,6 +245,7 @@
 - [Superhighway](https://superhighway.walls.sh) - Web search, news, scrape, and research API for AI agents. Useful for building real estate research agents that pull listings, scrape property pages, and gather neighborhood context. See the [real estate research agent guide](https://superhighway.walls.sh/guides/real-estate-agent).
 - [Yatmo](https://yatmo.com/real-estate-poi-api) - Neighbourhood data API for property listings in 25 countries: nearest schools, shops and public transport with real travel times by every mode, an indexable neighbourhood text, scores and isochrones, plus an embeddable map widget and an MCP server.
 - [DC Hub](https://dchub.cloud) - Data-center site-selection information via REST and MCP, with public market summaries, infrastructure data, and modeled power-availability scores.
+- [Listingrail](https://listingrail.com/) - REST API for sale and rental listings from 18 portals in the US, UK, Europe and the UAE (Zillow, Realtor.com, Redfin, Rightmove, Idealista, ImmoScout24, Bayut and more) in one JSON format, plus daily monitors for new listings and price cuts. Free tier.
 
 ### Lead Page Builders
 
