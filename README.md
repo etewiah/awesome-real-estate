@@ -341,6 +341,7 @@
 - [RentVsBuyMath](https://rentvsbuymath.com) - Free U.S. rent-vs-buy calculator that models opportunity cost on both sides under 2026 tax rules, plus a monthly tipping-rent table for the 97 largest metros; MIT-licensed engine with an automated test suite.
 - [RSMeans](https://www.rsmeans.com/) - Industry-standard construction cost data and estimation tools (U.S. and Canada).
 - [RentScope](https://lowlune.github.io/rentscope/) - Free browser calculators for rental-property cash flow, cap rate, DSCR, IRR, and US-specific 1031 exchange and depreciation scenarios, with an open-source MIT calculation engine and test suites.
+- [Investor Deal Calculators by Amr Magdy](https://amrmagdy.com/resources.html) - Free calculators for wholesalers and rental investors: MAO and buyer profit, assignment vs double close, BRRRR, DSCR, rental yield and cap rate, cost per deal by lead source. No sign up; USD, CAD, GBP or EUR on most.
 
 ### APIs
 
