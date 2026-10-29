@@ -352,6 +352,7 @@
 - [RealEstateAPI.com](https://www.realestateapi.com/) - API designed for PropTech solutions with unlimited property data and integrated machine-learning capabilities.
 - [UrbanKit Studio Parcel API](https://urbankitstudio.com/developers) - Address→owner/APN/mailing enrichment plus a verified ArcGIS REST endpoint directory for 155 US counties (free tier, $19/mo developer API, MCP server + npm SDK).
 - [Zip-Codes API](https://www.zip-codes.com/api/) - U.S. ZIP and Canadian postal code data with demographics, Census boundaries, school districts, radius search, and address validation.
+- [BatchData](https://batchdata.io/) - U.S. property data API for property search and details, owner skip tracing, and phone and address verification, with open-source integrations and a hosted MCP server for AI agents.
 
 ### Compliance & Permit Tools
 
