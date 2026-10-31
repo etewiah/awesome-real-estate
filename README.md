@@ -334,10 +334,13 @@
 
 - [Cost Segregation Benchmarks 2026](https://costsegsmart.com/research/benchmarks-2026/) - Open-data report on 260 cost segregation studies across 13 US property types. Reports median reclassification percentages, year-1 federal tax savings, and US provider pricing. CC-BY 4.0 licensed; CSV dataset available.
 - [MLS Photo Rules Dataset](https://github.com/October-ai-jpg/listing-photo-data) - Photo limits, required shots, branding bans, virtual-staging and AI-alteration labels, original-photo requirements and fines at 22 US MLSs, each row sourced to the MLS's own published rules with the date it was checked. CSV/JSON, CC BY 4.0.
+- [Modern CFO Cost Segregation Allocation Benchmarks (v2026.1.0)](https://freecostseg.com/resources/cost-segregation-benchmarks/) - CC BY 4.0 dataset of 45 commercial and residential property-type MACRS 5-year, 15-year, and 27.5/39-year depreciation allocation bands across 7 real estate asset classes, maintained by Matthew Gigantelli (ASCSP M009-25), with downloadable CSV/JSON, Streamable HTTP MCP server, and Zenodo DOI 10.5281/zenodo.23839364.
+- [The Trade Economy Index & US Commercial Building Stock Dataset](https://tradesindex.org/data/) - CC BY 4.0 aggregate dataset covering 9,084,887 deduplicated US commercial and industrial properties across 51 states and DC by construction era and property use, annual trade maintenance expenditure per commercial building across 11 property segments, and 19 contractor operating benchmarks, with downloadable CSV/JSON, documented methodology, and Zenodo DOI 10.5281/zenodo.19448302.
 
 ### Cost Estimation & Calculators
 
 - [HomeAdvisor True Cost Guide](https://www.homeadvisor.com/cost/) - U.S.-focused home improvement and construction cost data.
+- [Modern CFO Instant Cost Segregation Calculator & Overline IQ](https://freecostseg.com/proposal/) - Free interactive 60-second cost segregation and 2026 bonus depreciation tax-savings calculator across 45 property types, paired with [Overline IQ](https://overlineiq.com/cost-segregation-tax-savings) real estate tax and cash-flow underwriting.
 - [RentVsBuyMath](https://rentvsbuymath.com) - Free U.S. rent-vs-buy calculator that models opportunity cost on both sides under 2026 tax rules, plus a monthly tipping-rent table for the 97 largest metros; MIT-licensed engine with an automated test suite.
 - [RSMeans](https://www.rsmeans.com/) - Industry-standard construction cost data and estimation tools (U.S. and Canada).
 - [RentScope](https://lowlune.github.io/rentscope/) - Free browser calculators for rental-property cash flow, cap rate, DSCR, IRR, and US-specific 1031 exchange and depreciation scenarios, with an open-source MIT calculation engine and test suites.
