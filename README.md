@@ -231,6 +231,7 @@
 ### AI & Virtual Assistants
 
 - [AnveVoice](https://anvevoice.app) - AI voice agent for real estate websites that qualifies leads, schedules property showings, answers listing questions, and talks to visitors in 50+ languages.
+- [Realtimer](https://realtimer.ai/real-estate/) - AI assistant for agents and developers on live calls that answers buyer questions about price, floor plans and payment plans from their own files, in 60+ languages, without a bot in the call.
 
 ### Inspection & Reporting
 
