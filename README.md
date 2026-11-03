@@ -110,6 +110,7 @@
 - [real-estate-calculations](https://github.com/biegehydra/real-estate-calculations) - TypeScript functions for evaluating rental investment performance.
 - [real-estate-roi-calculator](https://github.com/Alirazahaider/real-estate-roi-calculator) - TypeScript utility for computing rental investment metrics.
 - [rental-deal-calculator](https://github.com/onyxaholguin-cyber/rental-deal-calculator) - Dependency-free JavaScript module and browser tool for rental cash flow, NOI, cap rate, cash-on-cash, DSCR and the 1% rule.
+- [FactLot](https://github.com/9mp96ygnbk-alt/factlot) - Open-source MCP server and SDKs giving AI agents deterministic commercial real estate calculators (NER, CAM, ASC 842, debt sizing, IRR) with audit trails, plus cited US parcel and owner facts.
 - [Individual-Rental-Portfolio-Analytics](https://github.com/YSayaovong/Individual-Rental-Portfolio-Analytics) - A Power BI and PostgreSQL dashboard for long-term rental property financial analysis.
 - [Investment Portfolio Optimization](https://github.com/MarionJelimo/real-estate-investment-portfolio-optimization-using-time-series) - A project for time series forecasting of property values.
 - [Real Estate Price Prediction Project](https://github.com/shanuhalli/Project-Real-Estate-Price-Prediction) - An end-to-end data science project for real estate price prediction.
