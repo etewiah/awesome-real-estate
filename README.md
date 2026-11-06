@@ -113,6 +113,7 @@
 - [Individual-Rental-Portfolio-Analytics](https://github.com/YSayaovong/Individual-Rental-Portfolio-Analytics) - A Power BI and PostgreSQL dashboard for long-term rental property financial analysis.
 - [Investment Portfolio Optimization](https://github.com/MarionJelimo/real-estate-investment-portfolio-optimization-using-time-series) - A project for time series forecasting of property values.
 - [Real Estate Price Prediction Project](https://github.com/shanuhalli/Project-Real-Estate-Price-Prediction) - An end-to-end data science project for real estate price prediction.
+- [proof-engine](https://github.com/MarianMortgage/proof-engine) - Open-source Monte Carlo model for pricing down-only (rate-only-goes-down) mortgage designs against a standard fixed-rate loan.
 
 ### Blogs
 
