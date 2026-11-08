@@ -358,6 +358,7 @@
 - [AddressIntel](https://addressintel.co/permits) - Free building-permit tracker with address-level search for SF Peninsula and South Bay cities, updated daily from municipal sources.
 - [Van Permit Audit](https://www.vanpermitaudit.ca/) - AI compliance checker for Vancouver, Canada building permits — validates permit PDFs against City of Vancouver bylaws and returns a structured pass/fail report.
 - [Lamuko Rent Laws](https://rent.lamuko.com/security-deposit-laws/) - US security-deposit reference data covering state rules, with official-source links, field-level verification status, downloadable JSON, and a return-deadline calculator.
+- [Lease Red-Flag Scanner](https://lease-red-flag-scanner.vercel.app) - Free, no-login scanner for California residential leases that flags risky clauses (improper entry notice, waiver-of-rights language, illegal fees, self-help eviction, retaliation) and checks the security-deposit cap against the exact Civil Code section, with no AI model call or data storage.
 
 ### Insurance
 
