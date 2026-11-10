@@ -220,6 +220,7 @@
 - [Build Quantities](https://buildquantities.com/) - Free construction quantity calculators for concrete, gravel, asphalt, blocks, and other materials with metric and imperial inputs.
 - [CREAssets Waterfall Model](https://creassets.com/tools/real-estate-waterfall-model-excel) - Free Excel workbook that splits a real estate partnership's cash flows between LPs and the GP through IRR hurdles and two promote tiers, with live formulas and no sign-up.
 - [House Build Cost Calculator](https://housebuildcostcalculator.com/) - Free house building cost calculators including total build cost with low/average/high ranges, concrete slab, lumber, and raw material estimators with cost-per-square-foot breakdowns.
+- [PSV CRE Calculators](https://pacificsoftwareventures.com/commercial-real-estate-calculators) - Free browser calculators for commercial real estate (cap rate, NOI, DSCR, debt yield, mortgage, cash-on-cash) plus T12, rent roll and offering memorandum analyzers, each with a usage guide; no sign-up, and inputs are never uploaded.
 
 ### Development & Construction
 
@@ -334,6 +335,7 @@
 
 - [Cost Segregation Benchmarks 2026](https://costsegsmart.com/research/benchmarks-2026/) - Open-data report on 260 cost segregation studies across 13 US property types. Reports median reclassification percentages, year-1 federal tax savings, and US provider pricing. CC-BY 4.0 licensed; CSV dataset available.
 - [MLS Photo Rules Dataset](https://github.com/October-ai-jpg/listing-photo-data) - Photo limits, required shots, branding bans, virtual-staging and AI-alteration labels, original-photo requirements and fines at 22 US MLSs, each row sourced to the MLS's own published rules with the date it was checked. CSV/JSON, CC BY 4.0.
+- [US Data Center Moratorium Tracker](https://pacificsoftwareventures.com/data-center-moratorium-tracker) - Public tracker of US data center moratoriums and pauses, each row linked to the order, filing, docket or ordinance behind it where one is public, with a free CSV download.
 
 ### Cost Estimation & Calculators
 
