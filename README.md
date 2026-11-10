@@ -311,6 +311,7 @@
 - [AssessorSearch](https://assessorsearch.com/) - Search U.S. property records by address, APN, parcel number, or owner name, with assessor data, tax records, deeds, permits, and county-source links.
 - [HouseCanary](https://www.housecanary.com/) - Provides real estate data and analytics, including home valuation models and market forecasting.
 - [Restar](https://restar.io/) - Housing market scores and 12-month price forecasts for every US state, metro, county and ZIP code, built from Zillow, Redfin, Census, BLS, FHFA and Federal Reserve data. Market pages are free with no account.
+- [Domesday](https://getdomesday.com/) - Address-level US property risk reports combining flood, wildfire, contamination, permit, tax-roll and insurance data from 120+ government sources, with every finding linked to its source. First report free.
 - [Reonomy](https://www.reonomy.com/) - Provides detailed commercial real estate data and analytics, including property records and ownership information.
 - [Amortio](https://www.amortio.com/) - Free mortgage calculators using Freddie Mac PMMS rate data, with PITI breakdown, FHA/VA/USDA loan eligibility, and refinance break-even analysis.
 - [CoStar](https://www.costar.com) - Commercial real estate research platform with data and analytics on millions of properties for market intelligence and deal-making.
