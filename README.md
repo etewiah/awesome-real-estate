@@ -587,6 +587,8 @@
 - [AptToSell Korea Housing Subscription Data](https://apttosell.com/housing-subscription-data/) - CC BY 4.0 South Korea housing-subscription reference data covering the private-housing 84-point score structure and regional deposit requirements, with downloadable CSV/JSON, documented methodology, DOI-backed archives, and dated snapshots.
 - [Resimanor Korea Stress DSR Housing Finance Data](https://resimanor.com/housing-finance-dsr-data/) - CC BY 4.0 South Korea housing-finance reference data showing stress-DSR mortgage-limit scenarios by annual income and existing credit debt, with downloadable CSV/JSON, documented assumptions, DOI-backed archives, and dated snapshots.
 
+- [BaanMe Open Data](https://baanme.com/en/data/open) - CC BY 4.0 CSV/GeoJSON aggregates of Thai condo asking prices by province and rents by BTS/MRT station, with source, date and methodology.
+
 ### Construction & Building Technology
 
 - [Buildots](https://buildots.com/) - Computer-vision platform that tracks construction-site progress against schedule and budget.
