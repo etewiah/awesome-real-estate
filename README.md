@@ -568,6 +568,8 @@
 - [makaan.com](https://www.makaan.com/) - Indian property portal connecting buyers with owners, agents, and builders.
 - [Engawa](https://engawahomes.com) - English-language property portal for foreign buyers in Japan, aggregating akiya, kominka, condo, land, and new-build listings on a map with hazard and transit data.
 
+- [BaanMe](https://baanme.com) - Thai property marketplace for rentals and sales with agent ID verification and map-based search in Thai, English and Chinese.
+
 ### Analytics Platforms
 
 - [Japan Neighborhoods](https://japanneighborhoods.com) - Free neighborhood-level crime, safety, and property price data for 5,078 Tokyo neighborhoods. English-language government data for expat homebuyers and investors. Includes interactive crime map, safety grading (A+ to F), and REST API.
