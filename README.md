@@ -340,6 +340,7 @@
 - [HomeAdvisor True Cost Guide](https://www.homeadvisor.com/cost/) - U.S.-focused home improvement and construction cost data.
 - [RentVsBuyMath](https://rentvsbuymath.com) - Free U.S. rent-vs-buy calculator that models opportunity cost on both sides under 2026 tax rules, plus a monthly tipping-rent table for the 97 largest metros; MIT-licensed engine with an automated test suite.
 - [RSMeans](https://www.rsmeans.com/) - Industry-standard construction cost data and estimation tools (U.S. and Canada).
+- [Real Estate Photography Prices](https://github.com/October-ai-jpg/listing-photo-data#listing-photo-data) - Published prices of 154 US real estate photographers in 24 metros by home size, with drone, video, twilight and 3D tour add-ons, each row sourced to the business's own pricing page and dated. CSV/JSON, CC BY 4.0.
 - [RentScope](https://lowlune.github.io/rentscope/) - Free browser calculators for rental-property cash flow, cap rate, DSCR, IRR, and US-specific 1031 exchange and depreciation scenarios, with an open-source MIT calculation engine and test suites.
 
 ### APIs
