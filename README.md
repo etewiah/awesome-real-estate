@@ -334,6 +334,7 @@
 
 - [Cost Segregation Benchmarks 2026](https://costsegsmart.com/research/benchmarks-2026/) - Open-data report on 260 cost segregation studies across 13 US property types. Reports median reclassification percentages, year-1 federal tax savings, and US provider pricing. CC-BY 4.0 licensed; CSV dataset available.
 - [MLS Photo Rules Dataset](https://github.com/October-ai-jpg/listing-photo-data) - Photo limits, required shots, branding bans, virtual-staging and AI-alteration labels, original-photo requirements and fines at 22 US MLSs, each row sourced to the MLS's own published rules with the date it was checked. CSV/JSON, CC BY 4.0.
+- [Landlord Bench Software Cost Study](https://landlordbench.com/data/landlord-software-cost) - Monthly study of what property management software costs a US landlord with 25 units, priced from 57 vendors' own pricing pages with the fees tenants pay counted. Dated rows, CSV under CC BY 4.0.
 
 ### Cost Estimation & Calculators
 
