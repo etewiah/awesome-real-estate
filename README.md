@@ -309,6 +309,7 @@
 ### Analytics Platforms
 
 - [AssessorSearch](https://assessorsearch.com/) - Search U.S. property records by address, APN, parcel number, or owner name, with assessor data, tax records, deeds, permits, and county-source links.
+- [Data Center Fact Check](https://datacenterfactcheck.org/) - Public tracker of 1,320+ U.S. data center development projects, each fact cited to its original record (county filings, utility dockets, permits), with county property tax history and a tax-break-per-job calculator.
 - [HouseCanary](https://www.housecanary.com/) - Provides real estate data and analytics, including home valuation models and market forecasting.
 - [Restar](https://restar.io/) - Housing market scores and 12-month price forecasts for every US state, metro, county and ZIP code, built from Zillow, Redfin, Census, BLS, FHFA and Federal Reserve data. Market pages are free with no account.
 - [Reonomy](https://www.reonomy.com/) - Provides detailed commercial real estate data and analytics, including property records and ownership information.
