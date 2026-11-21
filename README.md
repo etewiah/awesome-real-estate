@@ -341,6 +341,7 @@
 - [RentVsBuyMath](https://rentvsbuymath.com) - Free U.S. rent-vs-buy calculator that models opportunity cost on both sides under 2026 tax rules, plus a monthly tipping-rent table for the 97 largest metros; MIT-licensed engine with an automated test suite.
 - [RSMeans](https://www.rsmeans.com/) - Industry-standard construction cost data and estimation tools (U.S. and Canada).
 - [RentScope](https://lowlune.github.io/rentscope/) - Free browser calculators for rental-property cash flow, cap rate, DSCR, IRR, and US-specific 1031 exchange and depreciation scenarios, with an open-source MIT calculation engine and test suites.
+- [Fix-and-Flip Deal Analyzer](https://kingworks-dev.github.io/fix-and-flip-deal-analyzer/) - Free browser calculator for U.S. fix-and-flip and BRRRR deals: 70% rule maximum offer, rehab and holding costs, profit and ROI from the ARV.
 
 ### APIs
 
