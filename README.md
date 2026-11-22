@@ -472,6 +472,7 @@
 - [Visura API](https://github.com/zornade/visura-api) - AGPL-3.0 FastAPI + Playwright service that retrieves Italian cadastral registry (land registry ownership and property records) documents via automated browser interaction, exposed as a REST API. Powers [Zornade](https://app.zornade.com), which combines cadastral, hydrogeological risk and price data for 85M Italian parcels.
 - [BailleurVerif](https://github.com/Creariax5/bailleurverif) - Open dataset of non-compliant French rental listings (7 cities, ~210 listings/wave, 11 git-timestamped temporal waves, 57.6% cross-wave persistence, daily crawl). MIT-licensed Python pipeline + Etalab v2.0 dataset on data.gouv.fr for housing market research and regulatory compliance analytics.
 - [Poland Housing Prices](https://github.com/yngzty4229-art/poland-housing-prices) - CC BY 4.0 city-level CSV data on Polish apartment transaction prices from the RCN register and developer asking prices, with methodology and dated snapshots.
+- [European Real Estate AI Benchmark](https://github.com/veltastech/european-real-estate-ai-benchmark) - CC BY 4.0 open JSON/CSV dataset tracking EU, EEA and UK availability, EUR vs USD pricing, 1-property costs (8 staged photos plus 1 video) and 2026 EU AI Act / portal disclosure rules across 9 major virtual staging and real estate video tools, with automated monthly link checks and a Hugging Face mirror.
 
 ### Events
 
