@@ -491,6 +491,7 @@
 - [housfy](https://housfy.com) - Spanish real estate platform combining local expertise with technology to sell homes faster.
 - [Housell](https://housell.com) - Spanish real estate technology company blending online tools with local agent networks for home sales.
 - [CoworkingView](https://coworkingview.com) - Independent search and comparison platform for coworking spaces and private offices across Europe and the UAE, publishing operator-listed prices and a CC BY 4.0 per-city price index.
+- [Homedex](https://homedex.uk/) - Free, open index of UK homes for sale and to let from estate agents' websites, starting with Kent, with HM Land Registry sold prices, town market figures and a free, rate-limited MCP server for AI assistants.
 
 ### Directories
 
