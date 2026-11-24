@@ -322,6 +322,7 @@
 
 ### Educational Resources
 
+- [PassProfessor](https://passprofessor.com/free-samples/) - Free sample practice questions for U.S. real estate salesperson and broker licensing exams (20 free questions per exam).
 - [SAA Homes — Northern Colorado Real Estate](https://saahomes.com/) - Free buyer and seller guides, CHFA down payment assistance breakdowns, area guides for 19+ Front Range communities, and monthly MLS-sourced market reports for Fort Collins, Loveland, Windsor, and Greeley.
 - [US Real Estate Exam Data](https://github.com/roykim26/us-real-estate-exam-data) - Comprehensive dataset of US real estate licensing exam requirements, fees, and pass rates across all 50 states.
 
