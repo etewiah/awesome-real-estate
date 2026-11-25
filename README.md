@@ -231,6 +231,7 @@
 ### AI & Virtual Assistants
 
 - [AnveVoice](https://anvevoice.app) - AI voice agent for real estate websites that qualifies leads, schedules property showings, answers listing questions, and talks to visitors in 50+ languages.
+- [Owner Statement Agent](https://github.com/Sokage-AI/owner-statement-agent) - Open-source skill that drafts a plain-language owner update from a property management month-end export and stops when the stated totals do not tie out.
 
 ### Inspection & Reporting
 
