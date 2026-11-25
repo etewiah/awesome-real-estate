@@ -322,6 +322,7 @@
 
 ### Educational Resources
 
+- [PassNext Prep](https://passnextprep.com/) - Free practice questions and full timed exams for the Michigan and Florida real estate salesperson tests and the NMLS SAFE mortgage loan originator test, with every answer choice explained and no sign-up.
 - [SAA Homes — Northern Colorado Real Estate](https://saahomes.com/) - Free buyer and seller guides, CHFA down payment assistance breakdowns, area guides for 19+ Front Range communities, and monthly MLS-sourced market reports for Fort Collins, Loveland, Windsor, and Greeley.
 - [US Real Estate Exam Data](https://github.com/roykim26/us-real-estate-exam-data) - Comprehensive dataset of US real estate licensing exam requirements, fees, and pass rates across all 50 states.
 
