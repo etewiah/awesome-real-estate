@@ -146,6 +146,7 @@
 - [Altyst](https://altyst.ai) - AI underwriting for commercial real estate: turns an offering memorandum or rent roll into a full editable pro forma with IRR, DSCR, and sensitivity analysis.
 - [Cherre](https://cherre.com/) - Real estate data platform that unifies property and market information for faster investment decisions.
 - [REalyse](https://www.realyse.com/) - Property-data and analytics platform for market intelligence and valuation workflows.
+- [AY Area Prices](https://prices.ayskilllab.com/) - Free median sale prices, quartiles and year-on-year change for 210 areas in England and Wales, France and Singapore, built from the official sale registers (HM Land Registry Price Paid, DVF, HDB resale flats), with paid area reports.
 
 ### CRMs
 
