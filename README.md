@@ -217,6 +217,7 @@
 ### Cost Estimation & Calculators
 
 - [AssetCalcs](https://assetcalcs.com/) - Fast, ad-free investment and tax calculators for US/UK real estate investors (DSCR, BRRRR, Cap Rate, Hard Money, and BTL).
+- [BigPlanner Facilities Enquiry Workload Calculator](https://bigplanner.co.kr/fire-safety-ai/en/workload-calculator/) - Free browser calculator for estimating monthly time spent on routine tenant enquiries and the portion of that workload to review for a pilot.
 - [Build Quantities](https://buildquantities.com/) - Free construction quantity calculators for concrete, gravel, asphalt, blocks, and other materials with metric and imperial inputs.
 - [CREAssets Waterfall Model](https://creassets.com/tools/real-estate-waterfall-model-excel) - Free Excel workbook that splits a real estate partnership's cash flows between LPs and the GP through IRR hurdles and two promote tiers, with live formulas and no sign-up.
 - [House Build Cost Calculator](https://housebuildcostcalculator.com/) - Free house building cost calculators including total build cost with low/average/high ranges, concrete slab, lumber, and raw material estimators with cost-per-square-foot breakdowns.
