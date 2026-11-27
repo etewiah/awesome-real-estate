@@ -319,6 +319,7 @@
 - [Lightbox](https://www.lightboxre.com/) - Real estate data and workflow platform covering U.S. property records, zoning, and risk information for brokers, lenders, and investors.
 - [Bowery](https://www.boweryvaluation.com/) - Technology-driven commercial appraisal platform that speeds up valuations with data and workflow automation.
 - [mpac](https://www.mpac.ca/) - Ontario's official property-assessment authority, providing municipal property valuations and assessment data.
+- [FairRentIndex](https://www.fairrentindex.com/) - Free U.S. HUD Fair Market Rent (FY 2027), ZIP-level SAFMR, Census property tax, and Section 8 DSCR rental yield lookup across 44,854+ U.S. locations with CSV exports and JSON APIs.
 
 ### Educational Resources
 
