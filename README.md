@@ -321,7 +321,6 @@
 - [mpac](https://www.mpac.ca/) - Ontario's official property-assessment authority, providing municipal property valuations and assessment data.
 - [FairRentIndex](https://www.fairrentindex.com/) - Free U.S. HUD Fair Market Rent (FY 2027), ZIP-level SAFMR, Census property tax, and Section 8 DSCR rental yield lookup across 44,854+ U.S. locations with CSV exports and JSON APIs.
 
-
 ### Educational Resources
 
 - [SAA Homes — Northern Colorado Real Estate](https://saahomes.com/) - Free buyer and seller guides, CHFA down payment assistance breakdowns, area guides for 19+ Front Range communities, and monthly MLS-sourced market reports for Fort Collins, Loveland, Windsor, and Greeley.
